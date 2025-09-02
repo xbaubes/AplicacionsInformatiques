@@ -28,8 +28,8 @@ Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada proj
    - Guarda-hi els documents a presentar.
 
 2. **Configura dues capes al mapa**:  
-   - **Economia Lineal** → *extracció → producció → ús → residu*.  
-   - **Economia Circular** → *reciclatge → reutilització → reparació → producció sostenible*.  
+   - **Economia Lineal** → *extracció → producció → ús → residu* ...  
+   - **Economia Circular** → *reciclatge → reutilització → reparació* ...  
 
 3. **Afegeix almenys 5 punts a cada capa**:  
    - *Lineal (color blau)*: indústries, abocadors, centres comercials…  
