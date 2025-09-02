@@ -7,7 +7,7 @@ La seva finalitat és oferir a qualsevol persona la possibilitat de representar 
 És molt útil en àmbits educatius, professionals i personals, ja que facilita la planificació d’activitats, l’explicació de conceptes i la presentació d’informació geogràfica de forma visual i entenedora.  
 Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada projecte i compartir-los fàcilment amb altres persones, afavorint el treball col·laboratiu i la comunicació.
 
-## 📝 Què aprendrem a fer amb My Maps?
+## 📝 Què aprendrem a fer amb Google My Maps?
 - Afegir punts i assignar-los **icones, colors, descripció i imatge il·lustrativa**.  
 - Mostrar el **nom dels punts** directament al mapa.  
 - **Traçar línies** per indicar la seqüència d’un procés.  
@@ -20,6 +20,10 @@ Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada proj
 ---
 
 ## 🏭 Pràctica: Economia Circular vs Economia Lineal
+
+A partir del lloc on vius, dissenya un exemple complet i realista que mostri de manera comparativa els dos models econòmics.
+Representa, d’una banda, com funciona un sistema d’economia lineal existent a la teva zona i, de l’altra, com es podria aplicar un model d’economia circular. Intenta que els punts, llocs i processos que incorporis al mapa siguin el més pròxims i reals possibles a la teva realitat quotidiana.
+Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
 1. **Crea una carpeta** amb el nom:  
    `MyMaps-EconomiaCircularVsEconomiaLineal-Cognom1Cognom2Nom`  
