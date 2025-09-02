@@ -1,6 +1,13 @@
-# 🌍 Google My Maps – Pràctica d’Economia Circular vs Lineal
+# 🌍 Google My Maps 🌍
 
-## 🔹 Què aprendrem a fer amb My Maps
+## ℹ️ Què és Google My Maps?
+
+**Google My Maps** és una eina en línia de Google que permet crear mapes personalitzats.  
+La seva finalitat és oferir a qualsevol persona la possibilitat de representar informació sobre un mapa d’una manera clara i accessible.  
+És molt útil en àmbits educatius, professionals i personals, ja que facilita la planificació d’activitats, l’explicació de conceptes i la presentació d’informació geogràfica de forma visual i entenedora.  
+Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada projecte i compartir-los fàcilment amb altres persones, afavorint el treball col·laboratiu i la comunicació.
+
+## 📝 Què aprendrem a fer amb My Maps?
 - Afegir punts i assignar-los **icones, colors, descripció i imatge il·lustrativa**.  
 - Mostrar el **nom dels punts** directament al mapa.  
 - **Traçar línies** per indicar la seqüència d’un procés.  
@@ -12,12 +19,13 @@
 
 ---
 
-## 📝 Pràctica: Economia Circular vs Economia Lineal
+## 🏭 Pràctica: Economia Circular vs Economia Lineal
 
 1. **Crea una carpeta** amb el nom:  
-   `MyMaps-EconomiaCircularILineal-Cognom1Cognom2Nom`  
-   - Configura-la com a **accessible en lectura per a tothom**.  
-   - **Només tu** has de tenir permisos d’edició.  
+   `MyMaps-EconomiaCircularVsEconomiaLineal-Cognom1Cognom2Nom`  
+   - Configura-la com a **accessible en lectura per a tothom**.
+   - **Només tu** has de tenir permisos d’edició.
+   - Guarda-hi els documents a presentar.
 
 2. **Configura dues capes al mapa**:  
    - **Economia Lineal** → *extracció → producció → ús → residu*.  
@@ -39,4 +47,4 @@
 
 ## ⚖️ Avantatges i inconvenients
 
-👉 Inclou una avaluació detallada dels avantatges i inconvenients de l’economia circular i de la linial.
+👉 A la mateixa carpeta, inclou una avaluació detallada dels avantatges i inconvenients de l’economia circular i de la linial. Procura que alguns hagin quedat clarament reflectits al mapa creat.
