@@ -1,9 +1,9 @@
 # Google Workspace
 
 En aquesta pràctica aprendrem a utilitzar diverses eines web proporcionades per Google.  
-La pràctica es realitzarà en grups, aprofitant les possibilitats de treball col·laboratiu que ofereixen aquestes eines.  
+La pràctica es realitzarà en grups de 2 o 3, aprofitant les possibilitats de treball col·laboratiu que ofereixen aquestes eines.  
 La pràctica consisteix a confeccionar una enquesta de tema lliure, després de fer-ne distribució i obtenir respostes caldrà publicar-ne els resultats a una pàgina web.  
-Aquí teniu un petit exemple que us pot orientar en el vostre treball:  
+Aquí teniu un exemple que us pot orientar en el vostre treball:  
 https://sites.google.com/xtec.cat/enquesta-programacio
 
 ---
@@ -11,11 +11,9 @@ https://sites.google.com/xtec.cat/enquesta-programacio
 ## Planificació de la pràctica
 
 Primerament, haureu de planificar les tasques usant **TRELLO**, cal incloure el responsable i l’estat de realització si feu el seguiment de la tasca. https://trello.com/  
-Haureu de realitzar un **WIREFRAME** de les 3-4 pàgines de la vostra web. En versió pantalla gran i mòbil. https://wireframe.cc/
 
 ### Pas 1
-- Tasques definides i primeres assignacions amb Trello.  
-- Wireframe finalitzat.  
+- Tasques definides i primeres assignacions amb Trello.
 - L’enquesta ha d’estar finalitzada, per tal de tenir temps suficient per fer-ne difusió perquè el major nombre possible de persones la responguin.
 
 ### Pas 2
@@ -40,18 +38,18 @@ Per a portar a terme l'enquesta, utilitzarem les següents eines:
 - **Sheets** ens ajudarà a fer una anàlisi i generar gràfiques a partir de les respostes  
 - **Docs** ens permetrà elaborar l'informe amb els resultats  
 
-El primer pas és crear una carpeta al Google Drive, on s'han de crear tots els arxius que necessitem.  
-**Anomeneu-la** `GoogleWorkspace-membre1-membre2-membre3` substituint membre, pel nom d'usuari de cada membre de l'equip.
+El primer pas és crear una carpeta al Google Drive, on s'han de guardar tots els arxius que necessitem.  
+**Anomeneu-la** `GoogleWorkspace-enquesta-membre1-membre2-membre3` substituint "membre", pel nom i cognom de l'usuari de cada membre de l'equip.
 
 Compartiu aquesta carpeta (amb permís Editor) amb tots els membres de l'equip, i també amb el professor.  
-I feu-los accessible com a lector a qualsevol persona que en tingui l’enllaç.
+I feu-los accessible únicament com a lector a qualsevol persona que en tingui l’enllaç.
 
 Creeu els quatre arxius que necessitarem:
 
 > A partir d'aquí us podeu organitzar el treball com més us agradi.  
 > La recomanació és que en primer lloc cada membre del grup investigui una eina diferent i aprengui a utilitzar-la, valorant les possibilitats que ofereix per al desenvolupament del projecte.  
 > Podeu començar amb una enquesta de prova, amb preguntes provisionals, i elaborar la web, els gràfics i els informes amb respostes que vosaltres mateixos podeu contestar.  
-> Més endavant, entre tots, escriviu les preguntes definitives.
+> Escriviu les preguntes definitives entre tots.
 
 ---
 
