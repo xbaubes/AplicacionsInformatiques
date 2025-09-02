@@ -15,7 +15,7 @@ Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada proj
 - **Mesurar distàncies** i incloure-les a les descripcions.  
 
 👉 **Exemple de mapa:**  
-[Mapa d’exemple a My Maps](https://www.google.com/maps/d/edit?mid=1X4KqOKo3s4OL_LOHC51D5LiTrjOOTME&usp=drive_link)
+[Capitals de província de Catalunya](https://www.google.com/maps/d/edit?mid=1X4KqOKo3s4OL_LOHC51D5LiTrjOOTME&usp=drive_link)
 
 ---
 
