@@ -101,9 +101,9 @@ El lloc web haurà d’incloure:
   - Disseny personalitzat amb **logo, banner i favicon**.
   - Escollir i personalitzar un tema.
 - Un mínim de **3 pàgines**:
-  - Benvinguda  
-  - Enquesta  
-  - Resultats  
+  - Benvinguda: Explicació del projecte.
+  - Enquesta: Explicació de la temàtica de l'enquesta i enllaç per accedir-hi.
+  - Resultats: Gràfics que organitzen les respostes rebudes, contador i enllaç per descarregar l'indorme en pdf.
 - Inserció de gràfics enllaçats (no imatges estàtiques). Els gràfics de la pàgina de resultats han de provenir del fitxer respostes i s'han d'inserir com a gràfics o amb <iframe> per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta.
 - **Contador automàtic** del nombre de respostes. S’ha d’actualitzar automàticament.
 - Enllaç per descarregar l’**informe PDF**.  
