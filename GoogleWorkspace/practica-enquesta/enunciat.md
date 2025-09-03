@@ -22,17 +22,14 @@ La pràctica s’ha de fer seguint aquest ordre de passos i fites:
 
 ### Pas 1
 - Definir tasques i assignar responsables a **Trello**.  
-- Crear l’enquesta inicial (formulari).  
-- Enquesta preparada a temps per a difusió i recollida de respostes.  
+- Crear l’enquesta inicial amb **Google Forms**. Cal que l'enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
 
 ### Pas 2
 - Pàgina web de **Google Sites** estructurada i publicada.  
+- Generar un **Google Sheets** a partir de l'enquesta on s'hi volcaran les respostes automàticament. Cal processar les dades i generar gràfics que s'inclouran a la pàgina web.  
 
 ### Pas 3
-- Dades processades i gràfics generats a **Google Sheets**, integrats a la web.  
-
-### Pas 4
-- Preparació de l’**informe** i presentació final del projecte.  
+- Preparació de l’informe amb **Google Docs** i presentació final del projecte.  
 
 ⚠️ Els grups que no respectin aquesta planificació podran ser penalitzats.
 
@@ -40,10 +37,10 @@ La pràctica s’ha de fer seguint aquest ordre de passos i fites:
 
 Les eines de Google que utilitzarem són:
 
-- **Google Sites** → per crear el lloc web i publicar l’enquesta i els resultats.  
 - **Google Forms** → per elaborar el formulari de l’enquesta i recollir respostes.  
 - **Google Sheets** → per analitzar les dades i generar gràfics.  
-- **Google Docs** → per redactar l’informe amb resultats i conclusions.  
+- **Google Docs** → per redactar l’informe amb resultats i conclusions.
+- **Google Sites** → per crear el lloc web i publicar l’enquesta i els resultats.  
 
 ### Preparació inicial
 1. Creeu una carpeta al **Google Drive** anomenada:  
@@ -60,7 +57,7 @@ Les eines de Google que utilitzarem són:
 El formulari ha de complir amb aquests requisits mínims:
 
 - Entre **5 i 10 preguntes**.  
-- Com a mínim una de tipus **Multiple choice** o **Checkboxes**, amb opció “Altres” per escriure respostes.  
+- Com a mínim una de tipus **Multiple choice** i una altra **Checkboxes**. Almenys una d’elles amb opció “Altres” per escriure respostes.  
 - Almenys **una pregunta obligatòria**.  
 - Una pregunta amb **imatges a les respostes** i una altra amb **imatge il·lustrativa** de la pregunta.  
 - Organització en **seccions** amb **barra de progrés**.  
@@ -74,10 +71,10 @@ El formulari ha de complir amb aquests requisits mínims:
 ## 📊 Google Sheets
 
 - **Emmagatzemar** totes les respostes de l’enquesta automàticament. Enllaçarem un full de càlcul per guardar les respostes des de la pestanya «Respostes» de la vista d’edició.
-- **Netejar** les dades i processar-les correctament. Per exemple, eliminant espais sobrants (=TRIM(...)) i separant en diferents respostes els textos que incloguin comes (=SPLIT(...)).
+- **Netejar** les dades introduïdes des de teclat per l’usuari i processar-les correctament. Per exemple, eliminant espais sobrants (=TRIM(...)) i separant en diferents respostes els textos que incloguin comes (=SPLIT(...)).
 - **Anàlisi de les dades** i elaboració de gràfics per a l'informe de resultats.
 - **Crear diferents tipus de gràfics**, utilitzant el tipus més adequat per a cada pregunta.
-- **Almenys un dels gràfics ha de mostrar la relació entre les respostes de dues preguntes diferents del formulari.** Per exemple, després de preguntar l’interès i el nivell de coneixements en varis temes, cercar la relació entre l’interès per un tema i el nivell de coneixement que se’n té.
+- **Almenys un dels gràfics ha de mostrar la relació entre les respostes de dues preguntes diferents del formulari.** Per exemple, després de preguntar l’edat i l’interès en varis temes, cercar la relació entre l’interès per un tema determinat i l'edat.
 - Afegir un **contador automàtic de respostes** (=COUNTA(...)).
 - Assegura’t que automàticament s’agafen totes les files per generar els gràfics.
 
@@ -85,10 +82,10 @@ El formulari ha de complir amb aquests requisits mínims:
 
 L’informe haurà de contenir:
 
-- Portada amb títol i autors.  
-- Taula de continguts.  
-- Capçalera.  
-- S'ha d'afegir gràfics de resultats des del full de càlcul de respostes i des dels gràfics que genera automàticament Google Forms.
+- **Portada** amb títol i autors.  
+- **Taula de continguts**.  
+- **Capçalera**.  
+- S'ha d'afegir **gràfics** de resultats des del full de càlcul de respostes i des dels gràfics que genera automàticament Google Forms.
 - S’han d’analitzar detalladament els resultats obtinguts fins aquell moment i anotar-ne la data en l’informe.
 - Conclusions i possibles millores.  
 - S'haurà d'exportar en format PDF per tal que pugui ser descarregat mitjançant un enllaç a la web.
@@ -102,8 +99,6 @@ El lloc web haurà d’incloure:
   - Escollir i personalitzar un tema.
 - Un mínim de **3 pàgines**:
   - Benvinguda: Explicació del projecte.
-  - Enquesta: Explicació de la temàtica de l'enquesta i enllaç per accedir-hi.
-  - Resultats: Gràfics que organitzen les respostes rebudes, contador i enllaç per descarregar l'indorme en pdf.
-- Inserció de gràfics enllaçats (no imatges estàtiques). Els gràfics de la pàgina de resultats han de provenir del fitxer respostes i s'han d'inserir com a gràfics o amb <iframe> per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta.
-- **Contador automàtic** del nombre de respostes. S’ha d’actualitzar automàticament.
-- Enllaç per descarregar l’**informe PDF**.  
+  - Enquesta: Explicació de la temàtica del formulari i enllaç per accedir-hi.
+  - Resultats: Gràfics que organitzen les respostes rebudes, contador automàtic amb el nombre de respostes i enllaç per descarregar l'indorme en pdf.
+      - Inserció de gràfics enllaçats (no imatges estàtiques). Inclou tant gràfics generats pel Google Forms com del full de càlcul. S'han d'inserir com a gràfics o amb <iframe> per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta. 
