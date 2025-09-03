@@ -85,7 +85,7 @@ L’informe haurà de contenir:
 - **Portada** amb títol i autors.  
 - **Taula de continguts**.  
 - **Capçalera**.  
-- S'ha d'afegir **gràfics** de resultats des del full de càlcul de respostes i des dels gràfics que genera automàticament Google Forms.
+- S'ha d'afegir **gràfics** de resultats tant des del full de càlcul de respostes com des dels gràfics que genera automàticament Google Forms.
 - S’han d’analitzar detalladament els resultats obtinguts fins aquell moment i anotar-ne la data en l’informe.
 - Conclusions i possibles millores.  
 - S'haurà d'exportar en format PDF per tal que pugui ser descarregat mitjançant un enllaç a la web.
@@ -100,5 +100,5 @@ El lloc web haurà d’incloure:
 - Un mínim de **3 pàgines**:
   - Benvinguda: Explicació del projecte.
   - Enquesta: Explicació de la temàtica del formulari i enllaç per accedir-hi.
-  - Resultats: Gràfics que organitzen les respostes rebudes, contador automàtic amb el nombre de respostes i enllaç per descarregar l'indorme en pdf.
-      - Inserció de gràfics enllaçats (no imatges estàtiques). Inclou tant gràfics generats pel Google Forms com del full de càlcul. S'han d'inserir com a gràfics o amb <iframe> per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta. 
+  - Resultats: Gràfics que organitzen les respostes rebudes, contador automàtic amb el nombre de respostes i enllaç per descarregar l'informe en pdf.
+      - Inserció de gràfics enllaçats (no imatges estàtiques). Inclou els gràfics generats al full de càlcul, s'han d'inserir com a gràfics seleccionant prèviament el full de càlcul on estan o amb <iframe>, per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta. 
