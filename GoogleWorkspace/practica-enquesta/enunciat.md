@@ -65,7 +65,7 @@ El formulari ha de complir amb aquests requisits mínims:
 - Limitar a **una resposta per compte**. Valora si és adequat que es permeti editar les respostes un cop enviat
 - Per complir amb la normativa de protecció de dades, no es permet la recollida de les adreces electròniques.
 
-👉 Exemple:
+👉 Exemple:  
 [Trivial Pursuit](https://forms.gle/XwYoTPDCskCrNrBE6)
 
 ## 📊 Google Sheets
