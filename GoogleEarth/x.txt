@@ -1,0 +1,8 @@
+area
+
+hectares = km2 * 100
+
+cerca els deserts i les selves més grans del planeta
+
+https://earth.google.com/earth/d/1NiaSyJb2irwPMP9xzswIEO3UhrYjoT_O?usp=drive_link
+
