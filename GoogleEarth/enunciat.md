@@ -1,5 +1,5 @@
 # 🌍 Google Earth 🌍
-**Títol:** Explorant i representant un territori amb Google Earth  
+Explorant i representant un territori amb Google Earth  
 
 ## ℹ️ Què és Google Earth?
 
