@@ -25,7 +25,7 @@ A partir del lloc on vius, dissenya un exemple complet i realista que mostri de 
 Representa, d’una banda, com funciona un sistema d’economia lineal existent a la teva zona i, de l’altra, com es podria aplicar un model d’economia circular. Intenta que els punts, llocs i processos que incorporis al mapa siguin el més pròxims i reals possibles a la teva realitat quotidiana.
 Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
-1. **Crea una carpeta** amb el nom:  
+1. **Crea una carpeta** al Google Drive amb el nom:  
    `MyMaps-EconomiaCircularVsEconomiaLineal-Cognom1Cognom2Nom`  
    - Configura-la com a **accessible en lectura per a tothom**.
    - **Només tu** has de tenir permisos d’edició.
