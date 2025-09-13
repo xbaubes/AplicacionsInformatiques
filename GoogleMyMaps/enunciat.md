@@ -50,7 +50,7 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
 ---
 
-## ⚖️ Avantatges i inconvenients
+## ⚖️ Anàlisi comparativa
 
 👉 A la mateixa carpeta, afegeix un document amb portada i índex que inclogui:
 - Explicació dels exemples creats amb Google My Maps, tant del model lineal com del circular.
