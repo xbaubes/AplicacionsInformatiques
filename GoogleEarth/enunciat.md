@@ -1,5 +1,5 @@
 # 🌍 Google Earth 🌍
-**Títol:** Explorant i representant un territori amb Google Earth  
+Explorant i representant un territori amb Google Earth  
 
 ## ℹ️ Què és Google Earth?
 
@@ -20,7 +20,7 @@ També ofereix capes informatives, tours guiats i la possibilitat de crear i com
 
 ## 🗺️ Pràctica: Identificació geogràfica
 
-En aquesta pràctica aprendrem a utilitzar aquesta eina de cartografia digital per localitzar i identificar diferents elements físics de la Terra, com deserts 🏜️, oceans 🌊, muntanyes 🏔️, rius 🏞️ o volcans 🌋.  
+En aquesta pràctica aprendrem a utilitzar aquesta eina de cartografia digital per localitzar i identificar diferents elements físics de la Terra, com deserts 🏜️, selves 🌳, oceans 🌊, muntanyes 🏔️, rius 🏞️ o volcans 🌋.  
 L’objectiu és familiaritzar-nos amb el funcionament de Google Earth, comprendre millor la distribució i dimensió d’aquests accidents geogràfics i desenvolupar una mirada més global sobre el nostre planeta.  
 Al final de l’activitat haurem practicat la cerca de llocs concrets, la creació de marcadors i l’organització de la informació dins del mapa.
 
@@ -44,15 +44,12 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 3. Escriu una descripció breu.  
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar àres significatives: Parcs naturals, deserts, selves, oceans i volcans.  
-2. Dona'ls un nom i una descripció on has d'indicar l'àrea en hectàries:
-	\[
-	\text{Àrea (ha)} = \text{Àrea (km²)} \times 100
-	\]
+1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans.  
+2. Dona'ls un nom i una descripció on has d'indicar l'àrea en hectàries: **Àrea (ha) = Àrea (km²) × 100**
 3. Personalitza el color de farciment i la vora.  
 
 ### Explorar
-1. Mostra com era el lloc on vius l'any que vas néixer.
+1. Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any quan vas néixer.
 
 ### Compartir el projecte
 1. Comparteix l’enllaç de la carpeta.
