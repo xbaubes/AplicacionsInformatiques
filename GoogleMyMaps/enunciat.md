@@ -22,7 +22,7 @@ Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada proj
 ## 🏭 Pràctica: Economia Circular vs Economia Lineal
 
 A partir del lloc on vius, dissenya un exemple complet i realista que mostri de manera comparativa els dos models econòmics.
-Representa, d’una banda, com funciona un sistema d’economia lineal existent a la teva zona i, de l’altra, com es podria aplicar un model d’economia circular. Intenta que els punts, llocs i processos que incorporis al mapa siguin el més pròxims i reals possibles a la teva realitat quotidiana.
+Representa, d’una banda, com funciona un sistema d’economia lineal existent a la teva zona i, de l’altra, un model d’economia circular, si no existeix, com es podria aplicar amb els elements existents. Intenta que els punts, llocs i processos que incorporis al mapa siguin el més pròxims i reals possibles a la teva realitat quotidiana.
 Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
 1. **Crea una carpeta** al Google Drive amb el nom:  
@@ -32,12 +32,13 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    - Guarda-hi els documents a presentar.
 
 2. **Configura dues capes al mapa**:  
-   - **Economia Lineal** → *extracció → producció → ús → residu* ...  
-   - **Economia Circular** → *reciclatge → reutilització → reparació* ...  
+   - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
+   - **Economia Circular** :
+   <img src="economia-circular.png" alt="economia circular" width="500">
 
-3. **Afegeix almenys 5 punts a cada capa**:  
-   - *Lineal (color blau)*: indústries, abocadors, centres comercials…  
-   - *Circular (color verd)*: deixalleries, botigues de segona mà, cooperatives, empreses de reciclatge, horts urbans…  
+3. **Afegeix varis punts a cada capa**:  
+   - **Economia Lineal** (color blau): granges, indústries, abocadors, centres comercials, etc.
+   - **Economia Circular** (color verd): horts urbans, deixalleries, botigues de segona mà, cooperatives, empreses de reciclatge, etc.
    - Assigna **icones representatives** a cada punt.  
    - Inclou una **descripció breu i una imatge representativa**.  
 
@@ -51,4 +52,7 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
 ## ⚖️ Avantatges i inconvenients
 
-👉 A la mateixa carpeta, inclou una avaluació detallada dels avantatges i inconvenients de l’economia circular i de la linial. Procura que alguns hagin quedat clarament reflectits al mapa creat.
+👉 A la mateixa carpeta, afegeix un document amb portada i índex que inclogui:
+- Explicació dels exemples creats amb Google My Maps, tant del model lineal com del circular.
+- Una valoració detallada dels avantatges i inconvenients de l’economia circular i de la linial.
+- Dificultats de la implementació de l'economia circular.
