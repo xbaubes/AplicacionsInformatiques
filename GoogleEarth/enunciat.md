@@ -39,7 +39,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Afegeix una **imatge** o un **vídeo** relacionat.  
 
 ### Crear rutes
-1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius. Dibuixa una altra línia on es mostrin alguns dels rius més llargs i cabalosos de la Terra.
+1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius. Dibuixa una altra línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
 2. Personalitza cada línia amb un el color i gruix.  
 3. Escriu una descripció breu.  
 
@@ -49,7 +49,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 3. Personalitza el color de farciment i la vora.  
 
 ### Explorar
-1. Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any quan vas néixer.
+1. Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any en que vas néixer.
 
 ### Compartir el projecte
 1. Comparteix l’enllaç de la carpeta.
