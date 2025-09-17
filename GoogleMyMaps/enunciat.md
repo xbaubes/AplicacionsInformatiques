@@ -31,16 +31,16 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    - **Només tu** has de tenir permisos d’edició.
    - Guarda-hi els documents a presentar.
 
-2. **Configura dues capes al mapa**:  
+2. **Configura dues capes al mapa**:
    - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
    - **Economia Circular** :
    <img src="economia-circular.png" alt="economia circular" width="500">
 
-3. **Afegeix varis punts a cada capa**:  
-   - **Economia Lineal** (color blau): granges, indústries, abocadors, centres comercials, etc.
-   - **Economia Circular** (color verd): horts urbans, deixalleries, botigues de segona mà, cooperatives, empreses de reciclatge, etc.
-   - Assigna **icones representatives** a cada punt.  
-   - Inclou una **descripció breu i una imatge representativa**.  
+3. **Afegeix varis punts a cada capa**:
+   - Exemple d’elements de l’**economia Lineal** (color blau): granges, indústries, centres comercials, abocadors, etc.
+   - Exemple d’elements de l’**economia Circular** (color verd): horts urbans, cooperatives, botigues de segona mà, deixalleries, empreses de reciclatge, etc.
+   - Assigna **icones representatives** a cada punt.
+   - Inclou una **descripció breu i una imatge representativa** a cada punt.  
 
 4. **Traça línies de flux** per indicar la seqüència del recorregut entre punts.  
 
