@@ -10,7 +10,7 @@ Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada proj
 ## 📝 Què aprendrem a fer amb Google My Maps?
 - Afegir punts i assignar-los **icones, colors, descripció i imatge il·lustrativa**.  
 - Mostrar el **nom dels punts** directament al mapa.  
-- **Traçar línies** per indicar la seqüència d’un procés.  
+- **Traçar línies** entre punts.  
 - Afegir **capes** per organitzar els punts segons categories.  
 - **Mesurar distàncies** i incloure-les a les descripcions.  
 
