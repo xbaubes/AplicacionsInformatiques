@@ -65,4 +65,4 @@ Després d’explorar i representar diferents elements geogràfics amb Google Ea
 - Quina utilitat creus que pot tenir aquesta eina més enllà de l’aula (per exemple, en viatges, recerca científica, planificació, etc.)?  
 - Com pot canviar la nostra mirada sobre el món veure’l des d’una perspectiva global i interactiva?
 
-Afegeix-ho al document.
+Afegeix-ho al document de text.
