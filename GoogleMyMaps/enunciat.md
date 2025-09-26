@@ -38,7 +38,7 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    
    - Opcionalment, pots afegir un model d’**economia híbrida** en el que el resultat del procés de reciclatge no generi la mateixa matèria prima original.
    
-   Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi.
+   Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi o diverses empreses de consum quan és una indústria que genera molta producció.
 
 3. **Afegeix varis punts a cada capa**:
    - Exemple d’elements de l’**economia Lineal** (color blau): granges, indústries, centres comercials, abocadors, etc.
