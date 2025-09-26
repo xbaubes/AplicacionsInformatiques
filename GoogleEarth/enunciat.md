@@ -29,7 +29,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Configura-la com a **accessible en lectura per a tothom**.
    - **Només tu** has de tenir permisos d’edició.
 2. Obre [Google Earth Web](https://earth.google.com/web/).  
-3. Crea un **nou projecte**, posa-li un nom i guarda'l a la carpeta creada. També hi hauràs de guardar un document de text.
+3. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada. També hi hauràs de guardar un document de text.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
@@ -44,12 +44,12 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 3. Escriu una descripció breu.  
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans. Utilitza un mapa cartògrafic per delimitar-ne amb precisió l'àrea, també en pots canviar la vista si et facilita la feina. Un cop finalitzat el polígon el pots editar. 
-2. Dona'ls un nom i una descripció on has d'indicar l'àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
+1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans. Utilitza un mapa cartògrafic per delimitar-ne amb precisió l’àrea, també en pots canviar la vista si et facilita la feina. Un cop finalitzat el polígon el pots editar. 
+2. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
 3. Personalitza el color de farciment i la vora.  
 
 ### Explorar
-Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any en que vas néixer. Afegeix la imatge de l'any en que vas néixer i fes una comparació amb com és actualment, què ha canviat? per què?
+Usant aquesta eina obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
 
 ### Compartir el projecte
 Comparteix l’enllaç de la carpeta.
@@ -58,7 +58,7 @@ Comparteix l’enllaç de la carpeta.
 
 ## 🤔 Reflexió final
 
-Després d’explorar i representar diferents elements geogràfics amb Google Earth, reflexiona sobre aquestes preguntes:
+Després d’explorar i representar diferents elements geogràfics amb Google Earth, reflexiona sobre alguna d’aquestes preguntes:
 
 - Què has après sobre el lloc on vius i sobre altres zones del planeta que no coneixies?  
 - T’ha ajudat Google Earth a entendre millor la dimensió real de deserts, oceans, muntanyes o rius?  
