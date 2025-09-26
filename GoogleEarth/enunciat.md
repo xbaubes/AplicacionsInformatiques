@@ -49,10 +49,10 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 3. Personalitza el color de farciment i la vora.  
 
 ### Explorar
-1. Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any en que vas néixer. Afegeix la imatge de l'any en que vas néixer i fes una comparació amb com és actualment, què ha canviat? per què?
+Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any en que vas néixer. Afegeix la imatge de l'any en que vas néixer i fes una comparació amb com és actualment, què ha canviat? per què?
 
 ### Compartir el projecte
-1. Comparteix l’enllaç de la carpeta.
+Comparteix l’enllaç de la carpeta.
 
 ---
 
