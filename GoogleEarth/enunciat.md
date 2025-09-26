@@ -29,12 +29,12 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Configura-la com a **accessible en lectura per a tothom**.
    - **Només tu** has de tenir permisos d’edició.
 2. Obre [Google Earth Web](https://earth.google.com/web/).  
-3. Crea un **nou projecte**, posa-li un nom i guarda'l a la carpeta creada.  
+3. Crea un **nou projecte**, posa-li un nom i guarda'l a la carpeta creada. També hi hauràs de guardar un document de text.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
 2. Afegeix almenys **3 punts d’interès** (monuments, espais naturals, equipaments…).  
-   - Dona un nom a cada punt.  
+   - Assigna un nom a cada punt.  
    - Escriu una **breu descripció**.  
    - Afegeix una **imatge** o un **vídeo** relacionat.  
 
@@ -44,12 +44,12 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 3. Escriu una descripció breu.  
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans.  
+1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans. Utilitza un mapa cartògrafic per delimitar-ne amb precisió l'àrea, també en pots canviar la vista si et facilita la feina. Un cop finalitzat el polígon el pots editar. 
 2. Dona'ls un nom i una descripció on has d'indicar l'àrea en hectàries: **Àrea (ha) = Àrea (km²) × 100**
 3. Personalitza el color de farciment i la vora.  
 
 ### Explorar
-1. Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any en que vas néixer.
+1. Usant aquesta eina obté una captura i mostra com era el lloc on vius l'any en que vas néixer. Afegeix la imatge de l'any en que vas néixer i fes una comparació amb com és actualment, què ha canviat? per què?
 
 ### Compartir el projecte
 1. Comparteix l’enllaç de la carpeta.
