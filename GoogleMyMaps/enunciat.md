@@ -31,12 +31,14 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    - **Només tu** has de tenir permisos d’edició.
    - Guarda-hi els documents a presentar.
 
-2. **Configura dues capes al mapa**:
+2. **Configura d'almenys dues capes al mapa**:
    - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
    - **Economia Circular** :
    <img src="economia-circular.png" alt="economia circular" width="500">
-   - Opcionalment, pots afegir un model híbrid en el que el resultat del procés de reciclatge no generi la mateixa matèria prima original.
-   - Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi.
+   
+   - Opcionalment, pots afegir un model d’**economia híbrida** en el que el resultat del procés de reciclatge no generi la mateixa matèria prima original.
+   
+   Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi.
 
 3. **Afegeix varis punts a cada capa**:
    - Exemple d’elements de l’**economia Lineal** (color blau): granges, indústries, centres comercials, abocadors, etc.
