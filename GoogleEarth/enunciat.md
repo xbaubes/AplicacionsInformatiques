@@ -44,9 +44,10 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 3. Escriu una descripció breu.  
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans. Utilitza un mapa cartògrafic per delimitar-ne amb precisió l’àrea, també en pots canviar la vista si et facilita la feina. Un cop finalitzat el polígon el pots editar. 
+1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans. Utilitza un mapa cartògrafic per delimitar-ne amb precisió l’àrea, també en pots canviar la vista si et facilita la feina. Un cop finalitzat el polígon el pots editar.
 2. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
-3. Personalitza el color de farciment i la vora.  
+3. Afegeix al document els límits/recorregut de l'element recreat i la mida real.
+4. Personalitza el color de farciment i la vora.  
 
 ### Explorar
 Usant aquesta eina obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
