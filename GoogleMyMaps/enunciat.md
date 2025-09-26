@@ -35,12 +35,15 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
    - **Economia Circular** :
    <img src="economia-circular.png" alt="economia circular" width="500">
+   - Opcionalment, pots afegir un model híbrid en el que el resultat del procés de reciclatge no generi la mateixa matèria prima original.
+   - Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi.
 
 3. **Afegeix varis punts a cada capa**:
    - Exemple d’elements de l’**economia Lineal** (color blau): granges, indústries, centres comercials, abocadors, etc.
    - Exemple d’elements de l’**economia Circular** (color verd): horts urbans, cooperatives, botigues de segona mà, deixalleries, empreses de reciclatge, etc.
    - Assigna **icones representatives** a cada punt.
-   - Inclou una **descripció breu i una imatge representativa** a cada punt.  
+   - Inclou una **descripció breu i una imatge representativa** a cada punt.
+   - Fes que es mostri el nom dels punts directament al mapa.
 
 4. **Traça línies de flux** per indicar la seqüència del recorregut entre punts.  
 
