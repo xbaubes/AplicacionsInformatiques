@@ -29,7 +29,7 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    `MyMaps-EconomiaCircularVsEconomiaLineal-Cognom1Cognom2Nom`  
    - Configura-la com a **accessible en lectura per a tothom**.
    - **Només tu** has de tenir permisos d’edició.
-   - Guarda-hi els documents a presentar.
+   - Guarda-hi els documents a presentar: El projecte Google My Maps i un document de text.
 
 2. **Configura d'almenys dues capes al mapa**:
    - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
