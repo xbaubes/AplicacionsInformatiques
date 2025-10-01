@@ -28,8 +28,9 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 1. **Crea una carpeta al Google Drive** amb el nom: `GoogleEarth-IdentificacioGeografica-Cognom1Cognom2Nom`.
    - Configura-la com a **accessible en lectura per a tothom**.
    - **Només tu** has de tenir permisos d’edició.
+   - Guarda-hi un document de text.
 2. Obre [Google Earth Web](https://earth.google.com/web/).
-3. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada. També hi hauràs de guardar un document de text.
+3. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
