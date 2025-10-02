@@ -37,7 +37,8 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    <img src="economia-circular.png" alt="economia circular" width="500">
    
    - Opcionalment, pots afegir un model d’**economia híbrida** en el que el resultat del procés de reciclatge no generi la mateixa matèria prima original.
-   
+
+   Per cada capa centra't en una matèria primera diferent. Cal que a cada capa es mostri clarament com la matèria primera original es va transformant a cada fase.
    Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi o diverses empreses de consum quan és una indústria que genera molta producció.
 
 3. **Afegeix varis punts a cada capa**:
@@ -49,9 +50,9 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
 4. **Traça línies de flux** per indicar la seqüència del recorregut entre punts.  
 
-5. **Mesura la distància** de cada recorregut dissenyat i escriu-la dins la descripció de la línia o punt.  
+5. **Mesura la distància** de cada recorregut dissenyat i escriu-la dins la descripció de la línia.  
 
-6. **Adjunta l’enllaç de la carpeta** amb el mapa i fes el lliurament segons les indicacions del professorat.  
+6. **Adjunta l’enllaç de la carpeta** i fes el lliurament segons les indicacions del professorat.  
 
 ---
 
