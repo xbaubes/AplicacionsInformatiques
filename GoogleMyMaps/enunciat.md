@@ -5,7 +5,7 @@
 **Google My Maps** és una eina en línia de Google que permet crear mapes personalitzats.  
 La seva finalitat és oferir a qualsevol persona la possibilitat de representar informació sobre un mapa d’una manera clara i accessible.  
 És molt útil en àmbits educatius, professionals i personals, ja que facilita la planificació d’activitats, l’explicació de conceptes i la presentació d’informació geogràfica de forma visual i entenedora.  
-Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada projecte i compartir-los fàcilment amb altres persones, ja sigui mitjançant l’enllaç públic o bé incrustant-los en una web amb un `<iframe>`.
+Amb My Maps és possible dissenyar mapes adaptats a les necessitats de cada projecte i compartir-los fàcilment amb altres persones, ja sigui mitjançant l’enllaç públic o bé incrustant-los en una web amb un `<iframe>`, clicka [aquí](https://xbaubes.github.io/modules/aplicainfo/mymaps/mymaps.html?page=Google%20My%20Maps) per veure'n un exemple.
 
 ## 📝 Què aprendrem a fer amb Google My Maps?
 - Afegir punts i assignar-los **icones, colors, descripció i imatge il·lustrativa**.  
