@@ -43,7 +43,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius. Dibuixa una altra línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
 2. Escriu una descripció breu.
 3. Personalitza cada línia amb un el color i gruix diferents.  
-4. Afegeix al document de text un mapa cartogràfic on es mostrin el recorregut dels rius recreats i la mida real. Compara-la amb la que obtens al Google Earth.
+4. Afegeix al document de text un mapa cartogràfic on es mostrin els recorreguts dels rius recreats i la mida real. Compara-la amb la que obtens al Google Earth.
 
 ### Dibuixar una zona
 1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans. Utilitza un mapa cartògrafic per delimitar-ne amb precisió l’àrea, també en pots canviar la vista si et facilita la feina. Un cop finalitzat el polígon el pots editar.
