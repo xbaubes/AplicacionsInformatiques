@@ -105,10 +105,11 @@ El lloc web haurà d’incloure:
 
 La presentació haurà d’incloure:
 
-- Pot incloure diapositives amb **Google Slides** o presentar directamet sobre el projecte realitzat.
 - **Presentar el tema** escollit per realitzar el projecte.
 - **Presentar web.** Explicar l’estil elegit i el sistema de navegació. Demostrar que els gràfics s’actualitzen en temps real.
 - **Presentar formulari.** Explicar el tipus de preguntes creades.
 - **Presentar full de càlcul.** Explicar com heu processat les dades: Neteja, fórmules, gràfics.
 - **Presentar informe final** on s’analitzen les dades rebudes.
 - **Dificultats, reptes superats i aprenentatge adquirit** durant el projecte, tècnics i de coordinació.
+
+Pot incloure diapositives amb **Google Slides** o presentar directamet sobre el projecte realitzat.
