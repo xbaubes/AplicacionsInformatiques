@@ -106,7 +106,7 @@ El lloc web haurà d’incloure:
   - Resultats: Gràfics que organitzen les respostes rebudes, contador automàtic amb el nombre de respostes i enllaç per descarregar l’informe en pdf.
       - Inserció de gràfics enllaçats (no imatges estàtiques). Inclou els gràfics generats al full de càlcul, s’han d’inserir com a gràfics seleccionant prèviament el full de càlcul on estan o amb <iframe>, per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta. 
 
-## 📽️ Presentació a classe
+## 📽️ Presentació a l’aula
 
 La presentació haurà d’incloure:
 
