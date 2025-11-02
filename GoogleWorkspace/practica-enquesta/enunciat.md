@@ -7,7 +7,7 @@
 ## 📝 Introducció
 
 En aquesta pràctica aprendrem a utilitzar diverses eines web de Google de manera col·laborativa.  
-El treball es farà en **grups de 3 o 4 persones**, aprofitant les opcions de col·laboració en temps real.  
+El treball es farà en **grups de 3 o 4 alumnes**, aprofitant les opcions de col·laboració en temps real.  
 
 La tasca principal consisteix a **crear una enquesta de tema lliure**, difondre-la per obtenir respostes i, finalment, **publicar els resultats en una pàgina web**.
 
