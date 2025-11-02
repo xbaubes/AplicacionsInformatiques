@@ -18,16 +18,21 @@ La tasca principal consisteix a **crear una enquesta de tema lliure**, difondre-
 
 La pràctica s’ha de fer seguint aquest ordre de passos i fites:
 
-### Pas 1
-- Definir tasques i assignar responsables a **Trello**.  
-- Crear l’enquesta inicial amb **Google Forms**. Cal que l’enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
+#### Organització
+1. Definir tasques i assignar responsables a **Trello**.
 
-### Pas 2
-- Pàgina web de **Google Sites** estructurada i publicada.  
-- Generar un **Google Sheets** a partir de l’enquesta on s’hi volcaran les respostes automàticament. Cal processar les dades i generar gràfics que s’inclouran a la pàgina web.  
+#### Enquesta
+2. Crear l’enquesta inicial amb **Google Forms**. Cal que l’enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
 
-### Pas 3
-- Preparació de l’informe amb **Google Docs** i presentació final del projecte.  
+#### Processament
+3. Pàgina web de **Google Sites** estructurada i publicada.  
+4. Generar un **Google Sheets** a partir de l’enquesta on s’hi volcaran les respostes automàticament. Cal processar les dades i generar gràfics que s’inclouran a la pàgina web.  
+
+#### Anàlisi
+5. Preparació de l’informe amb **Google Docs**.
+
+#### Presentació
+6. Presentació final del projecte.  
 
 ⚠️ Els grups que no respectin aquesta planificació podran ser penalitzats.
 
