@@ -22,14 +22,14 @@ La pràctica s’ha de fer seguint aquest ordre de passos i fites:
 1. Definir tasques i assignar responsables a **Trello**.
 
 #### Enquesta
-2. Crear l’enquesta inicial amb **Google Forms**. Cal que l’enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
+2. Crear l’enquesta inicial. Cal que l’enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
 
 #### Processament
-3. Pàgina web de **Google Sites** estructurada i publicada.  
-4. Generar un **Google Sheets** a partir de l’enquesta on s’hi volcaran les respostes automàticament. Cal processar les dades i generar gràfics que s’inclouran a la pàgina web.  
+3. Pàgina web estructurada i publicada.  
+4. Generar un full de càlcul a partir de l’enquesta on s’hi volcaran les respostes automàticament. Cal processar les dades i generar gràfics que s’inclouran a la pàgina web.  
 
 #### Anàlisi
-5. Preparació de l’informe amb **Google Docs**.
+5. Preparació de l’informe.
 
 #### Presentació
 6. Presentació final del projecte.  
