@@ -108,6 +108,7 @@ El lloc web haurà d’incloure:
 
 ## 📽️ Presentació a l’aula
 
+El professor indicarà quina haurà de ser la durada.
 La presentació haurà d’incloure:
 
 - **Presentar el tema** escollit per realitzar el projecte.
