@@ -118,3 +118,5 @@ La presentació haurà d’incloure:
 - **Dificultats, reptes superats i aprenentatge adquirit** durant el projecte, tècnics i de coordinació.
 
 Pot incloure diapositives amb **Google Slides** o presentar directamet sobre el projecte realitzat.
+
+Al final hi haurà torn de preguntes.
