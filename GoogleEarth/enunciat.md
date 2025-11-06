@@ -31,6 +31,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Guarda-hi un document de text.
 2. Obre [Google Earth Web](https://earth.google.com/web/).
 3. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada.
+4. Comparteix el projecte, compartint l’**enllaç** de la carpeta.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
@@ -53,9 +54,6 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 
 ### Explorar
 Usant aquesta eina obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
-
-### Compartir el projecte
-Comparteix l’enllaç de la carpeta.
 
 ---
 
