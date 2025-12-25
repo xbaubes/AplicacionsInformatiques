@@ -71,25 +71,20 @@ Filtra per algun camp de manera que només mostri les files que compleixin la co
 Executarem la comanda des d'un terminal CMD.
 
 _Comanda cURL POST genèrica:_
+
 `curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content-Type: application/json" --data-binary @<RUTA_FITXER_JSON>`
 
-`https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA>`
+- [x] `https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA>` → URL d’una API generada per SheetDB que permet accedir a les dades
 
-<API_ID> → Identificador únic de la teva API generada per SheetDB.
+  - <API_ID> → Identificador únic de la teva API generada per SheetDB.
 
-?sheet=<NOM_PESTANYA> → Nom de la pestanya del full de càlcul on vols inserir les dades (ex: “Enemics”).
+  - ?sheet=<NOM_PESTANYA> → Nom de la pestanya del full de càlcul on vols inserir les dades (ex: “Enemics”).
 
--H "Content-Type: application/json"
+- [x] -H "Content-Type: application/json" → Capçalera que indica que les dades enviades són en format JSON.
 
-Capçalera que indica que les dades enviades són en format JSON.
+- [x] @<RUTA_FITXER_JSON>  → Ruta al fitxer JSON que conté les dades a afegir.
 
---data-binary @<RUTA_FITXER_JSON>
-
-@<RUTA_FITXER_JSON> → Ruta al fitxer JSON que conté les dades a afegir.
-
-El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
-
-Has de guardar les dades de la petició HTTP POST en un fitxer JSON.
+Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
 
 - **PUT** : Modificació de dades
 
