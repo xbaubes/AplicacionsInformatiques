@@ -20,9 +20,11 @@ Aquesta eina actua com un pont entre els fulls de càlcul i les aplicacions web,
 
 ## 🔌 Pràctica: Fulls de càlcul com a API
 
+
 Pots utilitzar les dades que vulguis per realitzar aquesta activitat, excepte les usades com a exemple.
 
 Documenta els resultats de l'activitat, no el procés.
+
 
 **1. Dissenyar i omplir Google Sheets**
 
@@ -43,11 +45,13 @@ Exemple relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola
 
 - Crea un diagrama que representi la relació que has creat.
 
+
 **2. Crear compte SheetDB**
 
 - Crear una API pel full de càlcul generat, assegura't que és d'accés públic.
 
 - Obté la URL base de l'API: Aquesta URL permetrà consultar i modificar les dades.
+
 
 **3. Defineix les crides a l'API**
 
@@ -97,6 +101,7 @@ Modifica alguna fila.
 Executarem la comanda des d'un terminal CMD usant cURL.
 
 Elimina alguna fila.
+
 
 **4.** [OPCIONAL] **Implementació web**
 - Crea una petita aplicació web (HTML + JS) que consumeixi l'API creada.
