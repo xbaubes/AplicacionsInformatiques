@@ -39,7 +39,7 @@ Crea almenys dues pestanyes amb informació relacionada entre elles.
 
 - Defineix una relació entre les taules: Utilitzar una clau forana permet saber a quina saga pertany cada enemic.
 
-Exemple relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
+Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 
 ![Diagrama](diagrama.jpg)
 
@@ -55,20 +55,20 @@ Exemple relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola
 
 **3. Defineix les crides a l'API**
 
-Documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
+Defineix i documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
 Fes captures de pantalla de la resposta rebuda per cada crida.
 
 - **GET** : Consulta de dades
 
 És l'única petició HTTP que es pot realitzar des del navegador.
 
-Obre el navegador amb la URL base per veure les dades de cada pestanya.
+Obre el navegador amb la URL base per veure les dades de cada pestanya en format JSON:
+
+![Resultat GET](GET.png)
 
 Canvia la ordenació per defecte dels resultats. Per exemple, que els enemics s'ordenin per nivell de poder.
 
 Filtra per algun camp de manera que només mostri les files que compleixin la condició. Per exemple, que només es mostrin els enemics d'una determinada saga.
-
-![Resultat GET](GET.png)
 
 - **POST** : Inserció de dades
 
@@ -88,7 +88,7 @@ _Comanda cURL POST genèrica:_
 
 - [x] @<RUTA_FITXER_JSON>  → Ruta al fitxer JSON que conté les dades a afegir.
 
-Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
+Afegeix almenys 2 files. Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
 
 - **PUT** : Modificació de dades
 
@@ -104,4 +104,4 @@ Elimina alguna fila.
 
 
 **4.** [OPCIONAL] **Implementació web**
-- Crea una petita aplicació web (HTML + JS) que consumeixi l'API creada.
+- Crea una petita aplicació web (HTML + JS) que consumeixi l'API creada a través dels endpoints acabats de definir.
