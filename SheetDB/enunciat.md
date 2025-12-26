@@ -14,13 +14,17 @@ Aquesta eina actua com un pont entre els fulls de càlcul i les aplicacions web,
 - Relacionar dades de diferents fulls com si fossin **taules d’una base de dades relacional**.
 
 👉 **Exemple:**  
-[https://sheetdb.io](https://xbaubes.github.io/modules/aplicainfo/fullAPI/fullAPI.html?page=Full%20de%20c%C3%A0lcul%20com%20a%20API)
+[Cercador d'elements químics](https://xbaubes.github.io/modules/aplicainfo/fullAPI/fullAPI.html?page=Full%20de%20c%C3%A0lcul%20com%20a%20API#id3)
 
 ---
 
 ## 🔌 Pràctica: Fulls de càlcul com a API
 
-Pots utilitzar les dades que vulguis
+
+Pots utilitzar les dades que vulguis per realitzar aquesta activitat, excepte les usades com a exemple.
+
+Documenta els resultats de l'activitat, no el procés.
+
 
 **1. Dissenyar i omplir Google Sheets**
 
@@ -33,12 +37,14 @@ Crea almenys dues pestanyes amb informació relacionada entre elles.
 
 - Insereix dades reals: Omple cada pestanya amb dades entrellaçades.
 
-- Defineix una relació entre les taules: Utilitza una clau forana.
+- Defineix una relació entre les taules: Utilitzar una clau forana permet saber a quina saga pertany cada enemic.
 
 Exemple relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
+
 ![Diagrama](diagrama.jpg)
 
 - Crea un diagrama que representi la relació que has creat.
+
 
 **2. Crear compte SheetDB**
 
@@ -46,41 +52,56 @@ Exemple relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola
 
 - Obté la URL base de l'API: Aquesta URL permetrà consultar i modificar les dades.
 
+
 **3. Defineix les crides a l'API**
 
-Fes captures de pantalla de la resposta rebuda.
+Documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
+Fes captures de pantalla de la resposta rebuda per cada crida.
 
-- GET (consulta de dades)
+- **GET** : Consulta de dades
 
-Obre el navegador amb la URL base per veure dades d'una pestanya. Canvia la ordenació per defecte dels resultats.
+És l'única petició HTTP que es pot realitzar des del navegador.
+
+Obre el navegador amb la URL base per veure les dades de cada pestanya.
+
+Canvia la ordenació per defecte dels resultats. Per exemple, que els enemics s'ordenin per nivell de poder.
+
+Filtra per algun camp de manera que només mostri les files que compleixin la condició. Per exemple, que només es mostrin els enemics d'una determinada saga.
 
 ![Resultat GET](GET.png)
 
-(terminal CMD - cURL)
-- Inserció de dades (POST)
-- Modificació de dades (PUT)
-- Eliminació de dades (DELETE)
+- **POST** : Inserció de dades
 
-Comanda cURL POST genèrica:
-curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content-Type: application/json" --data-binary @<RUTA_FITXER_JSON>
+Executarem la comanda des d'un terminal CMD.
 
-https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA>
+_Comanda cURL POST genèrica:_
 
-<API_ID> → Identificador únic de la teva API generada per SheetDB.
+`curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content-Type: application/json" --data-binary @<RUTA_FITXER_JSON>`
 
-?sheet=<NOM_PESTANYA> → Nom de la pestanya del full de càlcul on vols inserir les dades (ex: “Enemics”).
+- [x] `https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA>` → URL d’una API generada per SheetDB que permet accedir a les dades
 
--H "Content-Type: application/json"
+  - <API_ID> → Identificador únic de la teva API generada per SheetDB.
 
-Capçalera que indica que les dades enviades són en format JSON.
+  - ?sheet=<NOM_PESTANYA> → Nom de la pestanya del full de càlcul on vols inserir les dades (ex: “Enemics”).
 
---data-binary @<RUTA_FITXER_JSON>
+- [x] -H "Content-Type: application/json" → Capçalera que indica que les dades enviades són en format JSON.
 
-@<RUTA_FITXER_JSON> → Ruta al fitxer JSON que conté les dades a afegir.
+- [x] @<RUTA_FITXER_JSON>  → Ruta al fitxer JSON que conté les dades a afegir.
 
-El fitxer JSON ha d'estar ben formatat. [Descarregar post_enemic.json](post_enemic.json)
+Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
 
-Guardar la petició HTTP POST en un fitxer JSON i indicar amb quina comanda s'utilitza.
+- **PUT** : Modificació de dades
+
+Executarem la comanda des d'un terminal CMD usant cURL.
+
+Modifica alguna fila.
+
+- **DELETE** : Eliminació de dades
+
+Executarem la comanda des d'un terminal CMD usant cURL.
+
+Elimina alguna fila.
+
 
 **4.** [OPCIONAL] **Implementació web**
 - Crea una petita aplicació web (HTML + JS) que consumeixi l'API creada.
