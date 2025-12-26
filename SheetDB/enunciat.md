@@ -29,7 +29,7 @@ Documenta els resultats de l'activitat, no el procés.
 **1. Dissenyar i omplir Google Sheets**
 
 - Defineix pestanyes i columnes.
-Crea almenys dues pestanyes amb informació relacionada entre elles.
+Crea almenys dues pestanyes amb informació relacionada entre elles. ID_Saga_FK de la pestanya Enemics referencia a ID_Saga de la pestanya Sagues.
 
 | Pestanya 1 : Sagues     | Pestanya 2 : Enemics     |
 |-------------------------|--------------------------|
