@@ -72,8 +72,6 @@ Filtra per algun camp de manera que només mostri les files que compleixin la co
 
 - **POST** : Inserció de dades
 
-Executarem la comanda des d'un terminal CMD.
-
 _Comanda cURL POST genèrica:_
 
 `curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content-Type: application/json" --data-binary @<RUTA_FITXER_JSON>`
@@ -86,17 +84,23 @@ _Comanda cURL POST genèrica:_
 
 - [x] -H "Content-Type: application/json" → Capçalera que indica que les dades enviades són en format JSON.
 
-- [x] @<RUTA_FITXER_JSON>  → Ruta al fitxer JSON que conté les dades a afegir.
+- [x] @<RUTA_FITXER_JSON>  → Fitxer JSON que conté les dades a afegir amb la ruta inclosa.
+
+Executarem la comanda des d'un terminal CMD.
 
 Afegeix almenys 2 files. Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
 
 - **PUT** : Modificació de dades
+
+Investiga la sintaxi de la petició PUT.
 
 Executarem la comanda des d'un terminal CMD usant cURL.
 
 Modifica alguna fila.
 
 - **DELETE** : Eliminació de dades
+
+Investiga la sintaxi de la petició DELETE.
 
 Executarem la comanda des d'un terminal CMD usant cURL.
 
