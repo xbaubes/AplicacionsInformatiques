@@ -112,4 +112,6 @@ Elimina alguna fila.
 
 
 **4.** [OPCIONAL] **Implementació web**
-- Crea una petita aplicació web (HTML + JS) que consumeixi l'API creada a través dels endpoints acabats de definir.
+- Crea una petita aplicació web (HTML + CSS + JS) que consumeixi l'API, ha d'obtenir la informació que mostra a partir dels endpoints definits. Pots utilitzar Intel·ligència Artificial per confeccionar-la.
+- Per exemple, pots fer un [**gràfic**](https://xbaubes.github.io/modules/aplicainfo/chart/chartjs.html?page=Chart.js) o un [**mapa interactiu**](https://xbaubes.github.io/modules/aplicainfo/leaflet/leafletjs.html?page=Leaflet.js).
+
