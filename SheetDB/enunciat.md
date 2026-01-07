@@ -46,6 +46,8 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 
 - Crea un diagrama que representi la relació que has creat.
 
+- Adjunta l'enllaç del full de càlcul, assegura't que és accessible per lectura.
+
 
 **2. Crear compte SheetDB**
 
