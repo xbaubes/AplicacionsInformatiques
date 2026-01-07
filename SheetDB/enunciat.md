@@ -36,15 +36,15 @@ Crea almenys dues taules amb informació relacionada entre elles. ID_Saga_FK de 
 |-------------------------|--------------------------|
 | ![Sagues](Sagues.png)   | ![Enemics](Enemics.png)  |
 
-- Insereix dades reals: Omple cada pestanya amb dades entrellaçades.
-
-- Defineix una relació entre les taules: Utilitzar una clau forana permet saber a quina saga pertany cada enemic.
+- Defineix una relació entre les taules: Utilitzar una clau forana permet saber a quina saga pertany cada enemic. La columna de la clau forana no ha de permetre escriure-hi qualsevol valor, només ha de permetre seleccionar entre els ID que existeixin a la columna referenciada.
 
 Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 
 ![Diagrama](diagrama.jpg)
 
 - Crea un diagrama que representi la relació que has creat.
+
+- Insereix dades reals: Omple cada pestanya amb dades entrellaçades.
 
 - Adjunta l'enllaç del full de càlcul, assegura't que és accessible per lectura.
 
