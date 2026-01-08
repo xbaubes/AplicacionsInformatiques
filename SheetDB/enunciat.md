@@ -60,6 +60,7 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 **3. Defineix les crides a l'API**
 
 Defineix una col·lecció de crides per cada taula.
+
 Defineix i documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
 Fes captures de pantalla de la resposta rebuda per cada crida.
 
