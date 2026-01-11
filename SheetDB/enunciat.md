@@ -62,7 +62,7 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 Defineix una col·lecció de crides per cada taula.
 
 Defineix i documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
-Fes captures de pantalla de la resposta rebuda per cada crida. Si s'escau, verifica que el full de càlcul ha sigut alterat amb la crida.
+Fes captures de pantalla de la resposta que l'API retorna per cada crida. Si s'escau, verifica que el full de càlcul ha sigut alterat amb la crida.
 
 - **GET** : Consulta de dades
 
@@ -80,7 +80,9 @@ Filtra per algun camp de manera que només mostri les files que compleixin la co
 
 _Comanda cURL POST genèrica:_
 
-`curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content-Type: application/json" --data-binary @<RUTA_FITXER_JSON>`
+```bash
+curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content-Type: application/json" --data-binary @<RUTA_FITXER_JSON>
+```
 
 - [x] `https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA>` → URL d’una API generada per SheetDB que permet accedir a les dades
 
@@ -99,6 +101,12 @@ Afegeix almenys 2 files. Has de guardar les dades de la petició HTTP POST en un
 - **PUT** : Modificació de dades
 
 Investiga la sintaxi de la petició PUT.
+
+Aplica a la comanda el modificador `-i`, cerca el codi d'estat retornat pel servidor HTTP:
+
+> HTTP/1.1 200 OK
+> 
+> HTTP/1.1 400 Bad Request
 
 Executarem la comanda des d'un terminal CMD usant cURL.
 
