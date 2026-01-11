@@ -62,7 +62,7 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 Defineix una col·lecció de crides per cada taula.
 
 Defineix i documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
-Fes captures de pantalla de la resposta rebuda per cada crida.
+Fes captures de pantalla de la resposta rebuda per cada crida. Si s'escau, verifica que el full de càlcul ha sigut alterat amb la crida.
 
 - **GET** : Consulta de dades
 
