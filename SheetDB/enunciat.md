@@ -108,9 +108,11 @@ Aplica a la comanda el modificador `-i`, cerca el codi d'estat retornat pel serv
 > 
 > HTTP/1.1 400 Bad Request
 
+Aquest modificador es pot aplicar a qualsevol mètode HTTP, no només a PUT.
+
 Executarem la comanda des d'un terminal CMD usant cURL.
 
-Fes una petició per modificar alguna fila.
+Fes una petició per modificar alguna fila. Mostra el resultat d'una petició amb resposta correcta i una d'incorrecta, indica el motiu de l'error.
 
 - **DELETE** : Eliminació de dades
 
