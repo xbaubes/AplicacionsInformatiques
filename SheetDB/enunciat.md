@@ -72,9 +72,9 @@ Obre el navegador amb la URL base per veure les dades de cada pestanya en format
 
 ![Resultat GET](GET.png)
 
-Canvia la ordenació per defecte dels resultats. Per exemple, que els enemics s'ordenin per nivell de poder.
+Fes almenys una petició on es canviï la ordenació per defecte dels resultats. Per exemple, que els enemics s'ordenin per nivell de poder.
 
-Filtra per algun camp de manera que només mostri les files que compleixin la condició. Per exemple, que només es mostrin els enemics d'una determinada saga.
+Fes almenys una petició on es filtri per algun camp de manera que només mostri les files que compleixin la condició. Per exemple, que només es mostrin els enemics d'una determinada saga.
 
 - **POST** : Inserció de dades
 
@@ -96,7 +96,7 @@ curl -X POST https://sheetdb.io/api/v1/<API_ID>?sheet=<NOM_PESTANYA> -H "Content
 
 Executarem la comanda des d'un terminal CMD.
 
-Afegeix almenys 2 files. Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
+Fes una petició on s'afegeixin almenys 2 files. Has de guardar les dades de la petició HTTP POST en un fitxer JSON. El [fitxer JSON](post_enemic.json) ha d'estar ben formatat.
 
 - **PUT** : Modificació de dades
 
@@ -110,7 +110,7 @@ Aplica a la comanda el modificador `-i`, cerca el codi d'estat retornat pel serv
 
 Executarem la comanda des d'un terminal CMD usant cURL.
 
-Modifica alguna fila.
+Fes una petició per modificar alguna fila.
 
 - **DELETE** : Eliminació de dades
 
@@ -118,7 +118,7 @@ Investiga la sintaxi de la petició DELETE.
 
 Executarem la comanda des d'un terminal CMD usant cURL.
 
-Elimina alguna fila.
+Fes una petició per eliminar alguna fila.
 
 
 **4.** [OPCIONAL] **Implementació web**
