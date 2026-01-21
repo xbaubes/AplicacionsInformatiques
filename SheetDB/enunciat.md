@@ -18,7 +18,7 @@ Aquesta eina actua com un pont entre els fulls de càlcul i les aplicacions web,
 
 ---
 
-## 🔌 Pràctica: Fulls de càlcul com a API
+## 🔌 Pràctica: Full de càlcul com a API
 
 Per aquesta introducció a les bases de dades, utilitzarem informació del manga Bola de Drac. Ambdós conceptes es poden abreujar com a BdD; en l'idioma original, Database i Dragon Ball comparteixen l'abreviatura DB.
 
