@@ -56,6 +56,8 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 
 - Obté la URL base de l'API: Aquesta URL permetrà consultar i modificar les dades.
 
+- A través de les estadístiques i gràfics de l'apartat "Details", documenta que has fet peticions GET, POST, UPDATE i DELETE.
+
 
 **3. Defineix les crides a l'API**
 
