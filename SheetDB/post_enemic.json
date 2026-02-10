@@ -1,14 +1,12 @@
 {
   "data": [
     {
-      "ID_Enemic": "18",
 	  "Nom": "Kiwi",
       "Espècie": "Alien",
 	  "Nivell_Poder": "10000",
 	  "ID_Saga_FK": "5"
     },
     {
-      "ID_Enemic": "19",
       "Nom": "Ninja Murasaki",
       "Espècie": "Humà",
       "Nivell_Poder": "80",
