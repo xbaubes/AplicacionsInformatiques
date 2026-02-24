@@ -24,7 +24,7 @@ Per aquesta introducció a les bases de dades, utilitzarem informació del manga
 
 Pots utilitzar les dades que vulguis per realitzar aquesta activitat, excepte les usades com a exemple. 
 
-Documenta els resultats de l'activitat, no el procés.
+Elabora un document on mostris els resultats de l'activitat, no el procés.
 
 
 **1. Dissenyar i omplir Google Sheets**
