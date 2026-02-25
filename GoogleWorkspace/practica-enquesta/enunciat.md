@@ -118,6 +118,6 @@ La presentació haurà d’incloure:
 - **Presentar informe final** on s’analitzen les dades rebudes.
 - **Dificultats, reptes superats i aprenentatge adquirit** durant el projecte, tècnics i de coordinació.
 
-Pot incloure diapositives amb **Google Slides** o presentar directamet sobre el projecte realitzat.
+Pot incloure diapositives amb **Google Slides** o presentar directament sobre el projecte realitzat.
 
-Al final hi haurà torn de preguntes.
+Al finalitzar hi haurà torn de preguntes.
