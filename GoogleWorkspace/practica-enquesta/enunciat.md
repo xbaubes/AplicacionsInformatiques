@@ -86,8 +86,9 @@ El formulari ha de complir amb aquests requisits mínims:
 L’informe haurà de contenir:
 
 - **Portada** amb títol i autors.  
-- **Taula de continguts**.  
-- **Capçalera**.  
+- **Taula de continguts** clickable.  
+- **Capçalera** amb el nom del projecte i autors.
+- **Peu** amb el número de pàgina i total de pàgines.  
 - S’ha d’afegir **gràfics** de resultats tant des del full de càlcul de respostes com des dels gràfics que genera automàticament Google Forms.
 - S’han d’analitzar detalladament els resultats obtinguts fins aquell moment i anotar-ne la data en l’informe.
 - Conclusions i possibles millores.  
