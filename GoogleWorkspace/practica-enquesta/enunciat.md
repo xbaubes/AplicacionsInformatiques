@@ -75,7 +75,7 @@ El formulari ha de complir amb aquests requisits mínims:
 ## 📊 Google Sheets
 
 - **Emmagatzemar** totes les respostes de l’enquesta automàticament. Enllaçarem un full de càlcul per guardar les respostes des de la pestanya «Respostes» de la vista d’edició.
-- **Netejar** les dades introduïdes des de teclat per l’usuari i processar-les correctament. Per exemple, eliminant espais sobrants (TRIM) i separant en diferents respostes les preguntes amb múltiples respostes o els textos de l’opció “Altres” que incloguin comes (SPLIT).
+- **Netejar** les dades introduïdes des de teclat per l’usuari i processar-les correctament. Per exemple, eliminant espais sobrants (TRIM) i separant en diferents respostes els textos de l’opció “Altres” que incloguin comes (SPLIT).
 - **Anàlisi de les dades** i elaboració de gràfics per a l’informe de resultats. Alguns gràfics podràs generar-los directament del full de càlcul que conté les respostes i que és generat automàticament; per altres gràfics necessitaràs crear, a una altra pestanya, taules intermitges que netegin i processin les dades.
 - **Crear diferents tipus de gràfics**, utilitzant el tipus més adequat per a cada pregunta.
 - **Almenys un dels gràfics ha de mostrar la relació entre les respostes de dues preguntes diferents del formulari.** Per exemple, després de preguntar l’edat i l’interès en varis temes, cercar la relació entre l’interès per un tema determinat i l’edat.
