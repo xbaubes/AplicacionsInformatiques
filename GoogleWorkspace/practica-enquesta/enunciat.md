@@ -59,7 +59,8 @@ Les eines de Google que utilitzarem són:
 
 El formulari ha de complir amb aquests requisits mínims:
 
-- Entre **7 i 10 preguntes**.  
+- Títol i descripció adequats.
+- Entre **7 i 10 preguntes**.
 - Com a mínim una de tipus **Multiple choice** i una altra **Checkboxes**. Almenys una d’elles amb opció “Altres” per escriure respostes.  
 - Almenys **una pregunta obligatòria**.  
 - Almenys una pregunta amb **imatges a les respostes** i una altra amb **imatge il·lustrativa** de la pregunta.  
