@@ -48,10 +48,10 @@ Les eines de Google que utilitzarem són:
 ### Preparació inicial
 1. Creeu una carpeta al **Google Drive** anomenada:  
    `GoogleWorkspace-enquesta-membre1-membre2-membre3`  
-   (substituint *membreN* pel nom i cognom de cada integrant).  
+   (substituint *membreN* pel nom i cognoms de cada integrant).  
 2. Compartiu la carpeta amb **permís d’edició** amb els companys del grup.  
 3. Configureu la carpeta com a **només lectura** per a qualsevol persona amb enllaç.  
-4. Dins la carpeta, guardeu tots els arxius que utilitzeu per completar la pràctica (Forms, Sheets, Docs, Sites, pdf i imatges si ho creus necessari).  
+4. Dins la carpeta, guardeu tots els arxius que utilitzeu per completar la pràctica (Forms, Sheets, Docs, Sites i les imatges que inclou i .pdf).  
 
 💡 Recomanació: que cada membre investigui una eina diferent i aporti coneixements al grup. Es pot començar amb una **enquesta de prova** abans de fer la definitiva.
 
@@ -59,12 +59,12 @@ Les eines de Google que utilitzarem són:
 
 El formulari ha de complir amb aquests requisits mínims:
 
-- Entre **5 i 10 preguntes**.  
+- Entre **7 i 10 preguntes**.  
 - Com a mínim una de tipus **Multiple choice** i una altra **Checkboxes**. Almenys una d’elles amb opció “Altres” per escriure respostes.  
 - Almenys **una pregunta obligatòria**.  
-- Una pregunta amb **imatges a les respostes** i una altra amb **imatge il·lustrativa** de la pregunta.  
+- Almenys una pregunta amb **imatges a les respostes** i una altra amb **imatge il·lustrativa** de la pregunta.  
 - Organització en **seccions** amb **barra de progrés**.  
-- **Tema visual coherent** amb el disseny del web.  
+- **Tema visual coherent** amb el disseny de la pàgina web.  
 - Limitar a **una resposta per compte**. Valora si és adequat que es permeti editar les respostes un cop enviat.
 - Per complir amb la normativa de protecció de dades, no es permet la recollida de les adreces electròniques.
 
@@ -74,11 +74,11 @@ El formulari ha de complir amb aquests requisits mínims:
 ## 📊 Google Sheets
 
 - **Emmagatzemar** totes les respostes de l’enquesta automàticament. Enllaçarem un full de càlcul per guardar les respostes des de la pestanya «Respostes» de la vista d’edició.
-- **Netejar** les dades introduïdes des de teclat per l’usuari i processar-les correctament. Per exemple, eliminant espais sobrants (TRIM) i separant en diferents respostes els textos que incloguin comes (SPLIT).
-- **Anàlisi de les dades** i elaboració de gràfics per a l’informe de resultats.
+- **Netejar** les dades introduïdes des de teclat per l’usuari i processar-les correctament. Per exemple, eliminant espais sobrants (TRIM) i separant en diferents respostes les preguntes amb múltiples respostes o els textos de l’opció “Altres” que incloguin comes (SPLIT).
+- **Anàlisi de les dades** i elaboració de gràfics per a l’informe de resultats. Alguns gràfics podràs generar-los directament del full de càlcul que conté les respostes i que és generat automàticament; per altres gràfics necessitaràs crear, a una altra pestanya, taules intermitges que netegin i processin les dades.
 - **Crear diferents tipus de gràfics**, utilitzant el tipus més adequat per a cada pregunta.
 - **Almenys un dels gràfics ha de mostrar la relació entre les respostes de dues preguntes diferents del formulari.** Per exemple, després de preguntar l’edat i l’interès en varis temes, cercar la relació entre l’interès per un tema determinat i l’edat.
-- Afegir un **contador automàtic de respostes** (COUNTA).
+- Afegir, a una altra pestanya, un **contador automàtic de respostes** (COUNTA).
 - Assegura’t que automàticament s’agafen totes les files per generar els gràfics.
 
 ## 📑 Google Docs
@@ -105,7 +105,7 @@ El lloc web haurà d’incloure:
   - Benvinguda: Explicació del projecte.
   - Enquesta: Explicació de la temàtica del formulari i enllaç per accedir-hi.
   - Resultats: Gràfics que organitzen les respostes rebudes, contador automàtic amb el nombre de respostes i enllaç per descarregar l’informe en pdf.
-      - Inserció de gràfics enllaçats (no imatges estàtiques). Inclou els gràfics generats al full de càlcul, s’han d’inserir com a gràfics seleccionant prèviament el full de càlcul on estan o amb <iframe>, per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta. 
+      - Inserció de gràfics enllaçats (no imatges estàtiques). Inclou-hi els gràfics generats al full de càlcul, s’han d’inserir com a gràfics seleccionant prèviament el full de càlcul on estan o amb <iframe>, per tal que estiguin enllaçats i s’actualitzin amb cada nova resposta. 
 
 ## 📽️ Presentació a l’aula
 
@@ -113,11 +113,11 @@ El professor indicarà quina haurà de ser la durada.
 La presentació haurà d’incloure:
 
 - **Presentar el tema** escollit per realitzar el projecte.
-- **Presentar web.** Explicar l’estil elegit i el sistema de navegació. Demostrar que els gràfics s’actualitzen en temps real.
-- **Presentar formulari.** Explicar el tipus de preguntes creades.
-- **Presentar full de càlcul.** Explicar com heu processat les dades: Neteja, fórmules, gràfics.
-- **Presentar informe final** on s’analitzen les dades rebudes.
-- **Dificultats, reptes superats i aprenentatge adquirit** durant el projecte, tècnics i de coordinació.
+- **Presentar la web.** Explicar l’estil elegit i el sistema de navegació. Demostrar in situ que els gràfics s’actualitzen en temps real.
+- **Presentar el formulari.** Explicar el tipus de preguntes creades.
+- **Presentar el full de càlcul.** Explicar com heu processat les dades: Neteja, fórmules, gràfics.
+- **Presentar l'informe final** on s’analitzen les dades rebudes.
+- **Dificultats, reptes superats i aprenentatge adquirit** durant el projecte, tant tècnics com de coordinació.
 
 Pot incloure diapositives amb **Google Slides** o presentar directament sobre el projecte realitzat.
 
