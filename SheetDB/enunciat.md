@@ -31,7 +31,9 @@ Elabora un document on mostris els resultats de l'activitat, no el procés.
 
 - Defineix taules en pestanyes diferents i les seves respectives columnes.
 Estableix un ID que identifiqui inequívocament cada fila de la taula.
-Crea almenys dues taules amb informació relacionada entre elles. ID_Saga_FK de la pestanya Enemics referencia a ID_Saga de la pestanya Sagues.
+Crea almenys dues taules amb informació relacionada entre elles.
+
+ID_Saga_FK de la pestanya Enemics referencia a ID_Saga de la pestanya Sagues.
 
 | Pestanya 1 : Sagues     | Pestanya 2 : Enemics     |
 |-------------------------|--------------------------|
@@ -43,11 +45,11 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 
 ![Diagrama](diagrama.jpg)
 
-- Crea un diagrama que representi la relació que has creat.
+- Entrega:
 
-- Insereix dades reals: Omple cada pestanya amb dades entrellaçades.
+  **a)** Un diagrama que representi la relació que has creat.
 
-- Adjunta l'enllaç del full de càlcul, assegura't que és accessible per lectura.
+  **b)** Enllaç del full de càlcul, assegura't que és accessible per lectura. El full de càlcul ha d'estar estructurat en taules tal com s'ha explicat i ha de contenir dades reals entrellaçades entre les dos pestanyes.
 
 
 **2. Crear compte SheetDB**
@@ -56,15 +58,18 @@ Relació 1:N -> Una saga té molt enemics i un enemic pertany a una sola saga
 
 - Obté la URL base de l'API: Aquesta URL permetrà consultar i modificar les dades.
 
-- A través de les estadístiques i gràfics de l'apartat "Details", documenta que has fet peticions GET, POST, UPDATE i DELETE.
+- Entrega:
+
+  **c)** A través de les estadístiques i gràfics de l'apartat "Details", documenta que has fet peticions GET, POST, UPDATE i DELETE.
 
 
 **3. Defineix les crides a l'API**
 
-Defineix una col·lecció de crides per cada taula.
+- Defineix una col·lecció de crides per cada taula.
 
-Defineix i documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment.
-Fes captures de pantalla de la resposta que l'API retorna per cada crida. Si s'escau, verifica que el full de càlcul ha sigut alterat amb la crida.
+- Entrega:
+
+  **d)** Documenta les crides i comandes realitzades per tal de poder replicar-ho fàcilment. Fes captures de pantalla de la resposta que l'API retorna per cada crida. Si s'escau, verifica que el full de càlcul ha sigut alterat amb la crida.
 
 - **GET** : Consulta de dades
 
