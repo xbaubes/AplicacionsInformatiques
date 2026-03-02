@@ -22,7 +22,7 @@ La pràctica s’ha de fer seguint aquest ordre de passos i fites:
 1. Definir tasques i assignar responsables a **Trello**.
 
 #### Enquesta
-2. Crear l’enquesta inicial. Cal que l’enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
+2. Crear l’enquesta. Cal que l’enquesta estigui preparada a temps per a fer-ne la difusió i la recollida de respostes.  
 
 #### Processament
 3. Pàgina web estructurada i publicada.  
