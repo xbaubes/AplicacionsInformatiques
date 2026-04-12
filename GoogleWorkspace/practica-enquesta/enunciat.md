@@ -113,11 +113,12 @@ El lloc web haurà d’incloure:
 El professor indicarà quina haurà de ser la durada.
 La presentació haurà d’incloure:
 
-- **Presentar el tema** escollit per realitzar el projecte.
-- **Presentar la web.** Explicar l’estil elegit i el sistema de navegació. Demostrar in situ que els gràfics s’actualitzen en temps real.
-- **Presentar el formulari.** Explicar el tipus de preguntes creades.
-- **Presentar el full de càlcul.** Explicar com heu processat les dades: Neteja, fórmules, gràfics.
-- **Presentar l'informe final** on s’analitzen les dades rebudes.
+- **Tema** escollit per realitzar el projecte.
+- **Organització** del projecte.
+- **Web.** Explicar l’estil elegit i el sistema de navegació. Demostrar in situ que els gràfics s’actualitzen en temps real.
+- **Formulari.** Explicar el tipus de preguntes creades.
+- **Full de càlcul.** Explicar com heu processat les dades: Neteja, fórmules, gràfics.
+- **Informe final** on s’analitzen les dades rebudes.
 - **Dificultats, reptes superats i aprenentatge adquirit** durant el projecte, tant tècnics com de coordinació.
 
 Pot incloure diapositives amb **Google Slides** o presentar directament sobre el projecte realitzat.
