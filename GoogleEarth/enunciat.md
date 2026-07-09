@@ -73,7 +73,10 @@ Després d’explorar i representar diferents elements geogràfics amb Google Ea
 
 Afegeix-ho al document de text.
 
-**Format** del document de text:
+---
+
+## 📄 Format del document de text
+
 - Portada amb el títol i el nom de l’autor.
 - Taula de continguts clickable.
 - Una sola línia amb el nom de l’autor i títol de l’activitat a la capçalera de cada pàgina excepte a la portada.
