@@ -59,7 +59,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 4. Afegeix al document de text un mapa cartogràfic on es mostrin els límits dels elements recreats i la seva mida real. Compara-la amb la que obtens al Google Earth.
 
 ### Explorar
-Usant aquesta eina obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
+Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
 
 ---
 
@@ -77,7 +77,7 @@ Afegeix-ho al document de text.
 
 ## 📄 Format del document de text
 
-- Portada amb el títol i el nom de l’autor.
-- Taula de continguts clickable.
-- Una sola línia amb el nom de l’autor i títol de l’activitat a la capçalera de cada pàgina excepte a la portada.
-- Número de pàgina i total de pàgines al peu.
+- **Portada** amb el títol i el nom de l’autor.
+- **Taula de continguts** clickable.
+- Una sola línia amb el nom de l’autor i títol de l’activitat a la **capçalera** de cada pàgina excepte a la portada.
+- Número de pàgina i total de pàgines al **peu** de pàgina.
