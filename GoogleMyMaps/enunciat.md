@@ -32,13 +32,12 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    - Guarda-hi els documents a presentar: El projecte Google My Maps i un document de text.
    - **Adjunta l’enllaç de la carpeta** i fes el lliurament segons les indicacions del professorat.  
 
-2. **Configura capes al mapa**:
-   Crea una capa per cada tipus d'economia:
+2. **Configura capes al mapa**. Crea una capa per cada tipus d'economia:
    - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
    - **Economia Circular** :
    <img src="economia-circular.png" alt="economia circular" width="500">
 
-   Exemple complet d’Economia circular:
+   Cas pràctic complet d’Economia circular amb un exemple per cada fase:
    <blockquote>
 
    → **Extracció** : S'extreu liti i coltan de la mina.
@@ -58,7 +57,8 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    Per cada capa centra't en una matèria primera diferent. Cal que a cada capa es mostri clarament com la matèria primera original es va transformant a cada fase.
    Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi o diverses empreses de consum quan és una indústria que genera molta producció.
 
-4. **Afegeix varis punts a cada capa**:
+3. **Afegeix punts a cada capa**. A cada capa hauràs d'afegir-hi punts per representar cada una de les fases del model.
+
    - Els elements de l’**Economia Lineal** els representarem en color blau, alguns exemples: Mines, centres comercials, abocadors, etc.
    - Els elements de l’**Economia Circular** els representarem en color verd, alguns exemples: Botigues de segona mà, deixalleries, empreses de reciclatge, etc.
    - Hi ha elements que poden pertànyer a qualsevol de les dues economies, per exemple, les indústries de fabricació o les plataformes logístiques, ja que el seu impacte depèn de com gestionen els seus recursos i residus.
