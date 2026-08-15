@@ -30,7 +30,7 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
    - Configura-la com a **accessible en lectura per a tothom**.
    - **Només tu** has de tenir permisos d’edició.
    - Guarda-hi els documents a presentar: El projecte Google My Maps i un document de text.
-   - **Adjunta l’enllaç de la carpeta** i fes el lliurament segons les indicacions del professorat.  
+   - ***Entrega:*** **Adjunta l’enllaç de la carpeta** i fes el lliurament segons les indicacions del professorat.  
 
 2. **Configura capes al mapa**. Crea una capa per cada tipus d'economia:
    - **Economia Lineal** : *Extracció → Producció → Consum → Disposició* 
