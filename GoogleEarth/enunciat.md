@@ -31,7 +31,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 2. Dins la carpeta, guarda-hi un **document de text** per documentar l’activitat.
 3. Obre [Google Earth Web](https://earth.google.com/web/).
 4. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada.
-5. Comparteix el projecte, compartint l’**enllaç** de la carpeta.
+5. ***Entrega:*** Comparteix el projecte, compartint l’**enllaç** de la carpeta.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
@@ -42,21 +42,24 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 
 ### Crear rutes
 1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius.
-   - Primer assegura't que saps crear una ruta. Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
+   - Primer, assegura't que saps crear una ruta.
+   - Utilitza un mapa cartògrafic per conèixer-ne el recorregut.
+   - Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
    - Dibuixa una altra línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
-   - Utilitza com a màxim 20 punt per delimitar cada element.
+   - Utilitza com a màxim 20 punts per delimitar cada element.
 2. Escriu una descripció breu.
 3. Personalitza cada línia amb un el color i gruix diferents.  
 4. Afegeix al document de text un mapa cartogràfic on es mostrin els recorreguts dels rius recreats i la mida real. Compara-la amb la que obtens al Google Earth.
 
 ### Dibuixar una zona
 1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans.
-   - Utilitza un mapa cartògrafic per delimitar-ne amb precisió l’àrea, també en pots canviar la vista si et facilita la feina.
+   - Pots canviar la vista si et facilita la feina.
+   - Utilitza un mapa topogràfic per delimitar-ne amb precisió l’àrea.
    - Un cop finalitzat el polígon el pots editar per corregir errors.
-   - Utilitza com a màxim 20 punt per delimitar l’element.
-2. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
-3. Personalitza el color de farciment i la vora.
-4. Afegeix al document de text un mapa cartogràfic on es mostrin els límits dels elements recreats i la seva mida real. Compara-la amb la que obtens al Google Earth.
+   - Utilitza com a màxim 20 punts per delimitar l’element.
+3. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
+4. Personalitza el color de farciment i la vora.
+5. Afegeix al document de text un mapa cartogràfic on es mostrin els límits dels elements recreats i la seva mida real. Compara-la amb la que obtens al Google Earth.
 
 ### Explorar
 Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
