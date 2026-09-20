@@ -41,20 +41,19 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Afegeix una **imatge** o un **vídeo** relacionat.  
 
 ### Crear rutes
-1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius.
+1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius. Dibuixa una altra línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
    - Primer, assegura't que saps crear una ruta.
-   - Utilitza un mapa cartògrafic per conèixer-ne el recorregut.
+   - Utilitza un mapa topogràfic per conèixer-ne el recorregut.
    - Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
-   - Dibuixa una altra línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
    - Utilitza com a màxim 20 punts per delimitar cada element.
 2. Escriu una descripció breu.
-3. Personalitza cada línia amb un el color i gruix diferents.  
-4. Afegeix al document de text un mapa cartogràfic on es mostrin els recorreguts dels rius recreats i la mida real. Compara-la amb la que obtens al Google Earth.
+3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l'element.
+4. Afegeix al document de text un mapa cartogràfic on es mostrin els recorreguts dels elements recreats i la mida real. Compara-la amb la que obtens al Google Earth.
 
 ### Dibuixar una zona
 1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans.
    - Pots canviar la vista si et facilita la feina.
-   - Utilitza un mapa topogràfic per delimitar-ne amb precisió l’àrea.
+   - Utilitza un mapa físic per delimitar-ne amb precisió l’àrea.
    - Un cop finalitzat el polígon el pots editar per corregir errors.
    - Utilitza com a màxim 20 punts per delimitar l’element.
 3. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
