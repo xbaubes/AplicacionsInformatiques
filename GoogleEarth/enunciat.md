@@ -87,6 +87,7 @@ El document ha de contenir, en aquest ordre, els apartats següents:
 6. Exploració temporal.
 7. Reflexió final.
 8. **Fonts**: Indica la font de cada mapa o dada utilitzada com a referència.
+
 A la **capçalera** de cada pàgina, excepte la portada, indica en una sola línia el nom de l’autor i el títol de l’activitat.
 Número de pàgina i total de pàgines al **peu** de pàgina.
 Pots incloure imatges il·lustratives dels elements recreats.
