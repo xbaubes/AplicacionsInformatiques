@@ -43,7 +43,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 ### Crear rutes
 1. Dibuixa una **línia** que representi un riu i una altra per una carretera que passin prop del lloc on vius. Dibuixa una tercera línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
    - Primer, assegura’t que saps crear una ruta.
-   - Utilitza un mapa topogràfic per conèixer-ne el recorregut i poder-lo recrear amb fidelitat.
+   - Utilitza un mapa topogràfic per conèixer-ne el recorregut i poder-lo recrear amb precisió.
    - Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
    - Utilitza com a màxim 20 punts per delimitar cada element, intenta distribuir-los de manera que el recorregut sigui el més fidel possible.
 2. Escriu una descripció breu.
