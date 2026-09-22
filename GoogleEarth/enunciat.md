@@ -31,7 +31,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 2. Dins la carpeta, guarda-hi un **document de text** per documentar l’activitat.
 3. Obre [Google Earth Web](https://earth.google.com/web/).
 4. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada.
-5. ***Entrega:*** Comparteix el projecte, compartint l’**enllaç** de la carpeta.
+5. ***Entrega:*** Únicament comparteix el projecte, compartint l’**enllaç** de la carpeta.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
@@ -51,7 +51,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth.
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, muntanya i volcà.
+1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, serralada i volcà.
    - Pots canviar la vista si et facilita la feina.
    - Utilitza un mapa físic per delimitar-ne amb precisió l’àrea.
    - Un cop finalitzat el polígon el pots editar per corregir errors.
@@ -82,7 +82,7 @@ El document ha de contenir, en aquest ordre, els apartats següents:
 2. **Taula de continguts** clickable.
 3. Punts d’interès: Indica els 3 punts del teu poble o ciutat.
 4. Rutes: Indica el riu i la carretera propers i un gran riu del món, comparant les distàncies reals i les que tu obtens.
-5. Zones: Indica el parc natural, el desert, la selva, l’oceà, la muntanya i el volcà, comparant les superfícies reals i les que tu obtens.
+5. Zones: Indica el parc natural, el desert, la selva, l’oceà, la serralada i el volcà, comparant les superfícies reals i les que tu obtens.
 6. Exploració temporal.
 7. Reflexió final.
 8. Fonts: Indica la font de cada mapa o dada utilitzada com a referència.
