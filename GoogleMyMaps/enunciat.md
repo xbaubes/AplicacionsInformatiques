@@ -77,5 +77,6 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
 👉 Al document de la carpeta, afegeix-li una portada i un índex que inclogui:
 - Explicació dels exemples creats amb Google My Maps, tant del model lineal com del circular.
+- Calcula i compara les distàncies totals de transport de cada model per analitzar quin té un major impacte en la petjada de carboni.
 - Una valoració detallada dels avantatges i inconvenients de l’economia circular i de la linial.
 - Dificultats de la implementació de l'economia circular.
