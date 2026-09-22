@@ -37,31 +37,31 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 1. Busca el teu poble o ciutat amb la lupa.  
 2. Afegeix almenys **3 punts d’interès** (monuments, espais naturals, equipaments…).  
    - Assigna un nom a cada punt.  
-   - Escriu una **breu descripció**.  
+   - Escriu una **breu descripció**: 2 o 3 frases per explicar què és el lloc i per què és significatiu.  
    - Afegeix una **imatge** o un **vídeo** relacionat.  
 
 ### Crear rutes
-1. Dibuixa una **línia** que representi un riu i una carretera que passin prop del lloc on vius. Dibuixa una altra línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
+1. Dibuixa una **línia** que representi un riu i una altra per una carretera que passin prop del lloc on vius. Dibuixa una tercera línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
    - Primer, assegura't que saps crear una ruta.
    - Utilitza un mapa topogràfic per conèixer-ne el recorregut.
    - Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
-   - Utilitza com a màxim 20 punts per delimitar cada element.
+   - Utilitza com a màxim 20 punts per delimitar cada element, intenta distribuir-los de manera que el recorregut sigui el més fidel possible.
 2. Escriu una descripció breu.
 3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l'element.
-4. Afegeix al document de text el mapa que has utilitzat com a font per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la mida real. Compara-la amb la que obtens al Google Earth.
+4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth.
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar diferents àrees significatives del planeta: Parcs naturals, deserts, selves, oceans, muntanyes i volcans.
+1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, muntanya i volcà.
    - Pots canviar la vista si et facilita la feina.
    - Utilitza un mapa físic per delimitar-ne amb precisió l’àrea.
    - Un cop finalitzat el polígon el pots editar per corregir errors.
-   - Utilitza com a màxim 20 punts per delimitar l’element.
-3. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàries: **Àrea (ha) = Àrea (km²) × 100**
-4. Personalitza el color de farciment i la vora.
-5. Afegeix al document de text el mapa que has utilitzat com a font per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara-la amb la que obtens al Google Earth.
+   - Utilitza com a màxim 20 punts per delimitar l’element, intenta distribuir-los de manera que el perímetre sigui el més fidel possible.
+2. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàrees: **1 km² = 100 ha**
+3. Personalitza el color de farciment i la vora.
+4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara la superfície real del mapa amb l’àrea que has obtingut en la teva recreació a Google Earth.
 
-### Explorar
-Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer. Afegeix la imatge de l’any en que vas néixer i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
+### Exploració temporal
+Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer, o la imatge disponible més propera. Afegeix la imatge del passat i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
 
 ---
 
@@ -73,13 +73,19 @@ Després d’explorar i representar diferents elements geogràfics amb Google Ea
 - T’ha ajudat Google Earth a entendre millor la dimensió real de deserts, oceans, muntanyes o rius?  
 - Quina utilitat creus que pot tenir aquesta eina més enllà de l’aula?  
 
-Afegeix-ho al document de text.
-
 ---
 
 ## 📄 Format del document de text
 
-- **Portada** amb el títol i el nom de l’autor.
-- **Taula de continguts** clickable.
-- Una sola línia amb el nom de l’autor i títol de l’activitat a la **capçalera** de cada pàgina excepte a la portada.
-- Número de pàgina i total de pàgines al **peu** de pàgina.
+El document ha de contenir, en aquest ordre, els apartats següents:
+1. **Portada** amb el títol i el nom de l’autor.
+2. **Taula de continguts** clickable.
+3. Punts d’interès: Indica els 3 punts del teu poble o ciutat.
+4. Rutes: Indica el riu i la carretera propers i un gran riu del món, comparant les distàncies reals i les que tu obtens.
+5. Zones: Indica el parc natural, el desert, la selva, l’oceà, la muntanya i el volcà, comparant les superfícies reals i les que tu obtens.
+6. Exploració temporal.
+7. Reflexió final.
+8. Fonts: Indica la font de cada mapa o dada utilitzada com a referència.
+A la **capçalera** de cada pàgina, excepte la portada, indica en una sola línia el nom de l’autor i el títol de l’activitat.
+Número de pàgina i total de pàgines al **peu** de pàgina.
+Pots incloure imatges il·lustratives dels elements recreats.
