@@ -43,12 +43,13 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 ### Crear rutes
 1. Dibuixa una **línia** que representi un riu i una altra per una carretera que passin prop del lloc on vius. Dibuixa una tercera línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
    - Primer, assegura't que saps crear una ruta.
-   - Utilitza un mapa topogràfic per conèixer-ne el recorregut.
+   - Utilitza un mapa topogràfic per conèixer-ne el recorregut i poder-lo recrear amb fidelitat.
    - Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
    - Utilitza com a màxim 20 punts per delimitar cada element, intenta distribuir-los de manera que el recorregut sigui el més fidel possible.
 2. Escriu una descripció breu.
 3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l'element.
-4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth.
+4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth i calcula'n el percentatge d'error.
+5. Afegeix al document el gràfic del perfil longitudinal que genera Google Earth on es mostra alçada de cada punt de la ruta. Analitza'l.
 
 ### Dibuixar una zona
 1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, serralada i volcà.
@@ -58,10 +59,10 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Utilitza com a màxim 20 punts per delimitar l’element, intenta distribuir-los de manera que el perímetre sigui el més fidel possible.
 2. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàrees: **1 km² = 100 ha**
 3. Personalitza el color de farciment i la vora.
-4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara la superfície real del mapa amb l’àrea que has obtingut en la teva recreació a Google Earth.
+4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara la superfície real del mapa amb l’àrea que has obtingut en la teva recreació a Google Earth i calcula'n el percentatge d'error.
 
 ### Exploració temporal
-Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer, o la imatge disponible més propera. Afegeix la imatge del passat i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
+Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer, o la imatge disponible més propera. Afegeix la imatge del passat indicant a quin any correspon i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
 
 ---
 
@@ -80,9 +81,9 @@ Després d’explorar i representar diferents elements geogràfics amb Google Ea
 El document ha de contenir, en aquest ordre, els apartats següents:
 1. **Portada** amb el títol i el nom de l’autor.
 2. **Taula de continguts** clickable.
-3. Punts d’interès: Indica els 3 punts del teu poble o ciutat.
-4. Rutes: Indica el riu i la carretera propers i un gran riu del món, comparant les distàncies reals i les que tu obtens.
-5. Zones: Indica el parc natural, el desert, la selva, l’oceà, la serralada i el volcà, comparant les superfícies reals i les que tu obtens.
+3. Punts d’interès: Indica els 3 punts marcats, indica a quin poble o ciutat pertanyen.
+4. Rutes: Indica els rius i la carretera recreats, compara les distàncies reals i les que tu obtens.
+5. Zones: Indica el parc natural, el desert, la selva, l’oceà, la serralada i el volcà recreats, compara les superfícies reals i les que tu obtens.
 6. Exploració temporal.
 7. Reflexió final.
 8. Fonts: Indica la font de cada mapa o dada utilitzada com a referència.
