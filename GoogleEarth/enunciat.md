@@ -49,7 +49,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 2. Escriu una descripció breu.
 3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l’element.
 4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth i calcula’n el percentatge d’error.
-5. Afegeix al document el gràfic del perfil longitudinal que genera Google Earth on es mostra l’alçada de cada punt de la ruta. Analitza el gràfic.
+5. Afegeix al document el gràfic del perfil d’elevació que genera Google Earth on es mostra l’alçada de cada punt de la ruta. Analitza els desnivells del gràfic.
 
 ### Dibuixar una zona
 1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, serralada i volcà.
