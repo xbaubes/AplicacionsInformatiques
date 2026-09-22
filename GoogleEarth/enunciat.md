@@ -31,7 +31,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 2. Dins la carpeta, guarda-hi un **document de text** per documentar l’activitat.
 3. Obre [Google Earth Web](https://earth.google.com/web/).
 4. Crea un **nou projecte**, posa-li un nom i guarda’l a la carpeta creada.
-5. ***Entrega:*** Únicament comparteix el projecte, compartint l’**enllaç** de la carpeta.
+5. ***Entrega:*** Únicament comparteix la carpeta del projecte, compartint l’**enllaç** de la carpeta comparteixes tot el que hi ha a dins.
 
 ### Afegir punts d’interès
 1. Busca el teu poble o ciutat amb la lupa.  
