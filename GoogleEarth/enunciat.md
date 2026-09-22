@@ -14,7 +14,7 @@ També ofereix capes informatives, tours guiats i la possibilitat de crear i com
 - Compartir un projecte digital amb tot el món.  
 
 👉 **Exemple de mapa:**  
-[Parc Nacional d'Aigüestortes i Estany de Sant Maurici](https://earth.google.com/earth/d/1NiaSyJb2irwPMP9xzswIEO3UhrYjoT_O?usp=sharing)
+[Parc Nacional d’Aigüestortes i Estany de Sant Maurici](https://earth.google.com/earth/d/1NiaSyJb2irwPMP9xzswIEO3UhrYjoT_O?usp=sharing)
 
 ---
 
@@ -42,14 +42,14 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 
 ### Crear rutes
 1. Dibuixa una **línia** que representi un riu i una altra per una carretera que passin prop del lloc on vius. Dibuixa una tercera línia on es mostri algun dels rius més llargs i cabalosos de la Terra.
-   - Primer, assegura't que saps crear una ruta.
+   - Primer, assegura’t que saps crear una ruta.
    - Utilitza un mapa topogràfic per conèixer-ne el recorregut i poder-lo recrear amb fidelitat.
    - Localitza on comença i acaba l’element que delimitaràs, el naixement i la desembocadura en el cas del riu.
    - Utilitza com a màxim 20 punts per delimitar cada element, intenta distribuir-los de manera que el recorregut sigui el més fidel possible.
 2. Escriu una descripció breu.
-3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l'element.
-4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth i calcula'n el percentatge d'error.
-5. Afegeix al document el gràfic del perfil longitudinal que genera Google Earth on es mostra alçada de cada punt de la ruta. Analitza'l.
+3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l’element.
+4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth i calcula’n el percentatge d’error.
+5. Afegeix al document el gràfic del perfil longitudinal que genera Google Earth on es mostra l’alçada de cada punt de la ruta. Analitza el gràfic.
 
 ### Dibuixar una zona
 1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, serralada i volcà.
@@ -59,7 +59,7 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
    - Utilitza com a màxim 20 punts per delimitar l’element, intenta distribuir-los de manera que el perímetre sigui el més fidel possible.
 2. Dona’ls un nom i una descripció on has d’indicar l’àrea real en hectàrees: **1 km² = 100 ha**
 3. Personalitza el color de farciment i la vora.
-4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara la superfície real del mapa amb l’àrea que has obtingut en la teva recreació a Google Earth i calcula'n el percentatge d'error.
+4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara la superfície real del mapa amb l’àrea que has obtingut en la teva recreació a Google Earth i calcula’n el percentatge d’error.
 
 ### Exploració temporal
 Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer, o la imatge disponible més propera. Afegeix la imatge del passat indicant a quin any correspon i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
