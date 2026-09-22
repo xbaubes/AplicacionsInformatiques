@@ -54,7 +54,7 @@ Utilitza noms d’empreses reals que operin al teu poble o ciutat.
 
    - Opcionalment, pots afegir un model d’**Economia Híbrida** en el que el resultat del procés de reciclatge no generi la mateixa matèria prima original.
 
-   Per cada capa centra't en una matèria primera diferent. Cal que a cada capa es mostri clarament com la matèria primera original es va transformant a cada fase.
+   Per cada capa centra't en un producte final diferent. Cal que a cada capa es mostri clarament com la matèria primera original es va transformant a cada fase.
    Pots afegir diverses fonts de matèries primeres per una producció que ho requereixi o diverses empreses de consum quan és una indústria que genera molta producció.
 
 3. **Afegeix punts a cada capa**. A cada capa hauràs d'afegir-hi punts per representar cada una de les fases del model.
