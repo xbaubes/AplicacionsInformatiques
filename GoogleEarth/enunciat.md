@@ -49,6 +49,11 @@ Al final de l’activitat haurem practicat la cerca de llocs concrets, la creaci
 2. Escriu una descripció breu.
 3. Personalitza cada línia amb un el color i gruix diferents segons les característiques de l’element.
 4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els recorreguts dels elements recreats i la llargada real. Compara la llargada real del mapa amb la distància que has obtingut en la teva recreació a Google Earth i calcula’n el percentatge d’error.
+
+$$
+\text{Error Percentual} = \frac{|\text{Mesura Obtinguda} - \text{Mesura Real}|}{\text{Mesura Real}} \times 100
+$$
+
 5. Afegeix al document el gràfic del perfil d’elevació que genera Google Earth on es mostra l’alçada de cada punt de la ruta, analitza els desnivells del gràfic. Fes-ho per les 3 rutes creades.
 
 ### Dibuixar una zona
