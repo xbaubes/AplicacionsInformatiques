@@ -68,7 +68,7 @@ $$
 
 ---
 
-### ⏱️ Exploració temporal
+## ⏳ Exploració temporal
 Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer, o la imatge disponible més propera. Afegeix la imatge del passat indicant a quin any correspon i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
 
 ---
