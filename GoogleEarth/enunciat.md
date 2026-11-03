@@ -66,7 +66,9 @@ $$
 3. Personalitza el color de farciment i la vora.
 4. Afegeix al document de text la imatge del mapa que has utilitzat com a referència per dibuixar els elements, s’hi han de veure els límits dels elements recreats i la seva mida real. Compara la superfície real del mapa amb l’àrea que has obtingut en la teva recreació a Google Earth i calcula’n l’error percentual.
 
-### Exploració temporal
+---
+
+### ⏱️ Exploració temporal
 Fent servir aquesta eina, obté una captura i mostra com era el lloc on vius l’any en que vas néixer, o la imatge disponible més propera. Afegeix la imatge del passat indicant a quin any correspon i fes una comparació amb la imatge de com és actualment. Què ha canviat? Per què?
 
 ---
