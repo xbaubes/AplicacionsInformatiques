@@ -98,4 +98,4 @@ A la **capçalera** de cada pàgina, excepte la portada, indica en una sola lín
 
 Número de pàgina i total de pàgines al **peu** de pàgina.
 
-Pots incloure imatges il·lustratives dels elements recreats.
+Inclou **imatges il·lustratives** dels elements recreats.
