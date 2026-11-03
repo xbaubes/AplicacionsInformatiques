@@ -57,7 +57,7 @@ $$
 5. Afegeix al document el gràfic del perfil d’elevació que genera Google Earth on es mostra l’alçada de cada punt de la ruta, analitza els desnivells del gràfic. Fes-ho per les 3 rutes creades.
 
 ### Dibuixar una zona
-1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Parc natural, desert, selva, oceà, serralada i volcà.
+1. Afegeix un **polígon** per marcar cada una de les diferents àrees significatives del planeta: Desert, selva, oceà, serralada i volcà.
    - Pots canviar la vista si et facilita la feina.
    - Utilitza un mapa físic per delimitar-ne amb precisió l’àrea.
    - Un cop finalitzat el polígon el pots editar per corregir errors.
@@ -89,7 +89,7 @@ El document ha de contenir, en aquest ordre, els apartats següents:
 3. **Enllaç** al projecte Google Earth.
 4. Punts d’interès: Indica els 3 punts marcats, indica a quin poble o ciutat pertanyen.
 5. Rutes: Indica els rius i la carretera recreats. Compara les distàncies reals i les que tu obtens. Comenta el gràfic del perfil longitudinal.
-6. Zones: Indica el parc natural, el desert, la selva, l’oceà, la serralada i el volcà recreats. Compara les superfícies reals i les que tu obtens.
+6. Zones: Indica el desert, la selva, l’oceà, la serralada i el volcà recreats. Compara les superfícies reals i les que tu obtens.
 7. Exploració temporal.
 8. Reflexió final.
 9. **Fonts**: Indica la font de cada mapa o dada utilitzada com a referència.
