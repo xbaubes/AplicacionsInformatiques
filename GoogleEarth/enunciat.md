@@ -87,11 +87,11 @@ El document ha de contenir, en aquest ordre, els apartats següents:
 1. **Portada** amb el títol i el nom de l’autor.
 2. **Taula de continguts** clickable.
 3. **Enllaç** al projecte Google Earth.
-4. Punts d’interès: Indica els 3 punts marcats, indica a quin poble o ciutat pertanyen.
-5. Rutes: Indica els rius i la carretera recreats. Compara les distàncies reals i les que tu obtens. Comenta el gràfic del perfil longitudinal.
-6. Zones: Indica el desert, la selva, l’oceà, la serralada i el volcà recreats. Compara les superfícies reals i les que tu obtens.
-7. Exploració temporal.
-8. Reflexió final.
+4. **Punts d’interès:** Indica els 3 punts marcats, indica a quin poble o ciutat pertanyen.
+5. **Rutes:** Indica els rius i la carretera recreats. Compara les distàncies reals i les que tu obtens. Comenta el gràfic del perfil longitudinal.
+6. **Zones:** Indica el desert, la selva, l’oceà, la serralada i el volcà recreats. Compara les superfícies reals i les que tu obtens.
+7. **Exploració temporal**.
+8. **Reflexió final**.
 9. **Fonts**: Indica la font de cada mapa o dada utilitzada com a referència.
 
 A la **capçalera** de cada pàgina, excepte la portada, indica en una sola línia el nom de l’autor i el títol de l’activitat.
